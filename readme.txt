@@ -1,1 +1,0 @@
-Blog sobre Eve Online

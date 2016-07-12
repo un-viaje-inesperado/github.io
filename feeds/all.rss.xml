@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 12 Jul 2016 10:00:00 -0300</lastBuildDate><item><title>Piratas en las anomalías del Caribe</title><link>http://un-viaje-inesperado.github.io/piratas-en-las-anomalias-del-caribe.html</link><description>&lt;p&gt;Cazar piratas es una fuente de ingreso de divisas para los pilotos en New Eden.
+Cada una de estas naves de ilegales posee una recompensa. Si logramos
+destruirlas entonces cobramos el importe total menos el impuesto a las ganancias
+que nos descuenta la corporación (el 4% en Area-52).&lt;/p&gt;
+&lt;p&gt;Si vamos en flota a hacerlas chatarra, recibimos el proporcional de la
+recompensa, que se distribuye en partes iguales entre los pilotos de la misma
+flota presentes en las cercanías (¿y si hay pilotos de distintas flotas en la
+misma anomalía?), aún cuando no todos le hayan infligido algún daño. El monto de
+la recompensa es proporcional a su tamaño y a la dificultad de destruirlas, y
+figura en la ventana de información de target (donde están los íconos de
+alinear, warpear, dockear, targetear, etc).&lt;/p&gt;
+&lt;p&gt;Los piratas (&amp;quot;ratas&amp;quot; de aquí en adelante) aparecen espontaneamente en los
+cinturones de asteroides, algo de lo que pueden dar cuenta los mineros, que
+sufren sus ataques. Sin embargo, encontrarlos allí es incierto, no se sabe en
+qué momento aparecerán. Lo más común es visitar anomalías que aparecen en el
+Probe Scanner marcadas como Combat Anomalies. Allí siempre hay ratas. Y donde
+hay ratas hay buenos botines.&lt;/p&gt;
+&lt;p&gt;Las anomalías pueden clasificarse por dificultad según sus nombres. Las
+enciclopedias especializadas citan 10 niveles:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Burrow / Drone Collection (la más fácil)&lt;/li&gt;
+&lt;li&gt;Hideaway / Drone Cluster&lt;/li&gt;
+&lt;li&gt;Refuge / Drone Gathering&lt;/li&gt;
+&lt;li&gt;Den / Drone Gathering&lt;/li&gt;
+&lt;li&gt;Yard / Drone Surveillance&lt;/li&gt;
+&lt;li&gt;Rally Point / Drone Menagerie&lt;/li&gt;
+&lt;li&gt;Port / Drone Herd&lt;/li&gt;
+&lt;li&gt;Hub / Drone Squad&lt;/li&gt;
+&lt;li&gt;Haven / Drone Patrol&lt;/li&gt;
+&lt;li&gt;Sanctum / Drone Horde (la más difícil)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El nombre de las anomalías está antecedido por la facción de piratas que
+alberga. Por ejemplo, en Immensea hay Angel Rally Point, Angel Hub, etc.&lt;/p&gt;
+&lt;p&gt;Además, dentro de cada grupo, la dificultad puede subdividirse. El listado es el
+siguiente:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sin modificador&lt;/li&gt;
+&lt;li&gt;Hidden&lt;/li&gt;
+&lt;li&gt;Forsaken&lt;/li&gt;
+&lt;li&gt;Forlorn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Como ejemplo, aunque no necesariamente se encuentren todas ellas en un mismo
+sistema, pueden existir:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Angel Hub&lt;/li&gt;
+&lt;li&gt;Angel Hidden Hub&lt;/li&gt;
+&lt;li&gt;Angel Forsaken Hub&lt;/li&gt;
+&lt;li&gt;Angel Forlorn Hub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A pesar de estas clasificaciones mi sugerencia es que pruebes distintas
+anomalías para ver cuáles te resultan más accesibles de acuerdo a tu nave y tus
+skills. Con mi Vexor resultó mucho más laborioso superar las anomalías fáciles
+de mi sistema (las Den) con su alto número de fragatas y naves pequeñas, que
+Rally Points, Hubs y Havens. Entre otras variables involucradas, nuestro
+desempeño depende de la capacidad que tengamos de sobrevivir al daño. Los
+pilotos con pocas horas de entrenamiento probablemente tengan un escudo que no
+resista mucho. Por este motivo las naves grandes de las anomalías difíciles
+pueden resultar relativamente más fáciles: en mi caso, si bien tenía poco
+shield, sólo debía alcanzarme mientras neutralizaba el ataque de fragatas y
+destructores, mientras que a las battleships las dejaba para el final,
+aprovechando que tienen dificultad para pegarle a blancos móviles y rápidos.
+Evadir su daño, orbitándolas de este modo se llama también tanquearlas por
+velocidad.&lt;/p&gt;
+&lt;p&gt;Cuando vayan por ratas tengan presente que también hay diferencias dentro de
+anomalías del mismo tipo. Por ejemplo las Havens aparecen con una disposición
+dentro o cerca de una roca con forma de serpiente. Las que presentan esta forma
+me parecen más fáciles. Hay otras con una disposición más abierta, sin rocas
+alrededor, en donde creo que hay más naves. Estas últimas me resultan más
+difíciles.&lt;/p&gt;
+&lt;p&gt;Para que sea redituable visitar anomalías hay que visitarlas con una nave que
+permita limpiar las sucesivas olas de ratas sin tener que volver a repararla, o
+hacerlo sólo una o dos veces. En esto también influye el nivel de las skills que
+hayamos entrenado. Al principio, con la Vexor normal bajaba un par de piratas y
+debía huir porque ya peligraba el escudo, con el riesgo de quedar atrapado por
+el Warp Scrambler de una fragata, o también arriesgaba la armadura debido a la
+lentitud de los drones pesados en retornar (tampoco es redituable dejarlos
+abandonados cada vez que huimos). Si les pasa eso, vean qué skills necesitan
+subir para mejorar su dps y su escudo, y tengan paciencia. Mientras esperan a
+que el entrenamiento brinde sus frutos, quizás puedan dedicarse a prestar
+servicios de protección a los mineros en las anomalías.&lt;/p&gt;
+&lt;p&gt;Para tener una idea de las ganancias de ISK, tras un mes de juego con
+entrenamiento bastante orientado al rateo, logro sacar unos 25 millones de isk
+por hora. Pilotos más antiguos dan cifras tres veces mayores con esta misma
+actividad.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Tue, 12 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-12:piratas-en-las-anomalias-del-caribe.html</guid><category>guias</category></item><item><title>Drones</title><link>http://un-viaje-inesperado.github.io/drones.html</link><description>&lt;p&gt;Gran parte de este artículo está extraido de &lt;a class="reference external" href="http://wiki.eveuniversity.org/Drones_101"&gt;Eve University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los drones son una extensa familia de ayudantes que los pilotos poseen para
+realizar distintas tareas, desde el combate hasta la minería. En estas lineas
+nos centraremos en los drones de combate.&lt;/p&gt;
+&lt;div class="section" id="tipos-de-drones"&gt;
+&lt;h2&gt;Tipos de drones&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Combate:&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Light scouts&lt;/strong&gt; (livianos): se usan contra fragatas, destructores y otros
+drones.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Medium scouts&lt;/strong&gt; (medianos): se usan contra Cruisers y Battlecruisers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heavy scouts&lt;/strong&gt; (pesados): se usan contra Battleships y targets
+estacionarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sentry&lt;/strong&gt;: son fijos, para blancos fijos o con pequeña velocidad angular
+(no importa si se trata de battleships o fragatas). Tienen la ventaja de no
+requerir tiempo de viaje para iniciar el daño o para retirarlos.
+&lt;em&gt;Observación&lt;/em&gt;: el resto de esta guía está más orientado a los scouts que a
+los sentrys.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mineros.&lt;/li&gt;
+&lt;li&gt;Recicladores: recuperan restos de las chatarras espaciales.&lt;/li&gt;
+&lt;li&gt;Logísticos: reparan escudos y armaduras de naves amigas (no propias).&lt;/li&gt;
+&lt;li&gt;De guerra electrónica: interfieren las naves enemigas, provocando problemas en
+sus sensores y otros sistemas electrónicos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dentro de cada clase hay distintos drones. Por ejemplo, los livianos fabricados
+por minmatar, gallente, caldari y amarr son los warriors, hobgoblin, hornet y
+acolyte, respectivamente. Cada uno de ellos provoca distinto tipo de daño
+(explosivo, térmico, cinético y electrónico), tienen diferente velocidad en su
+poder de fuego, etc. Por otra parte hay variaciones de estos drones que provocan
+una mezcla de daño, son las versiones &amp;quot;integrated&amp;quot; y &amp;quot;augmented&amp;quot;, y además están
+otras versiones de facción. Muchas de las características están listadas en
+forma de tabla en &lt;a class="reference external" href="http://wiki.eveuniversity.org/Drones"&gt;la página de Eve University&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="numero-de-drones"&gt;
+&lt;h2&gt;Número de drones&lt;/h2&gt;
+&lt;p&gt;Cada nave tiene dos características que afectan el número de drones que puede
+almacenar (el tamaño de su &lt;em&gt;drone bay&lt;/em&gt;) y el número de drones que puede
+controlar (el ancho de banda). Cuando se libera desde la nave, cada dron ocupa
+una banda de frecuencias para poder controlarlo, por lo cual el ancho de banda
+de la nave limita el número de drones que puede liberar simultaneamente.&lt;/p&gt;
+&lt;p&gt;Requerimientos:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Livianos: 5m3 y 5Mbit/seg&lt;/li&gt;
+&lt;li&gt;Medianos: 10m3 y 10Mbit/seg&lt;/li&gt;
+&lt;li&gt;Pesados: 25m3 y 25Mbit/seg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Disponer en el drone bay de distinto tipo de drones permite más flexibilidad
+para liberar aquellos que hagan más daño al enemigo que enfrentamos, o para
+realizar distintas tareas en un mismo viaje. Por ejemplo, una Vexor (común)
+tiene 125m3 y 75 Mbit/seg de ancho de banda, por lo cual sólo puede liberar 3
+drones pesados (cada uno requiere 25 Mbit/seg). Los drones medianos requieren 10
+y los pequeños 5. La misma Vexor puede liberar 2 pesados + 2 medianos + 1
+liviano (= 2x25 + 2x10 + 5). Y además puede llevar drones de reciclaje (ocupan
+5m3 cada uno y 5 Mbit/seg) para el momento en que el combate termina.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rango-de-control"&gt;
+&lt;h2&gt;Rango de control&lt;/h2&gt;
+&lt;p&gt;Sólo se pueden comandar los drones que estén dentro de una cierta distancia de
+la nave, que de base está en 20 km. Si el target está a una distancia mayor que
+este rango, los drones tampoco pueden atacarlo. Si el target está dentro del
+rango, pero durante el combate se aleja, los drones lo siguen. Éstos aún pueden
+ser recuperados por nuestra nave si están dentro de los 250km. Si se alejan más,
+quedan abandonados y hay que ir a recuperarlos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ventana-de-control-de-drones"&gt;
+&lt;h2&gt;Ventana de control de drones&lt;/h2&gt;
+&lt;p&gt;Al estar fuera de una estación, la nave con drones dispone de una ventana para
+controlarlos. Cada dron se representa en una linea con tres barras que indican
+el estado de su escudo (shield), armadura (armor) y estructura (hull). A medida
+que reciben daño estas barras se van poniendo rojas. Los drones pueden estar en
+el bay de la nave o en el espacio, lo cual se refleja porque aparecen debajo de
+&lt;em&gt;Drones in bay&lt;/em&gt; o debajo de &lt;em&gt;Drones in space&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Los drones se pueden controlar individualmente, pero es más facil agruparlos
+para poder comandarlos en grupos (por ejemplo: todos los livianos). Para
+organizarlos en grupo hay que invocar su menú contextual y elegir &amp;quot;move to&amp;quot;. Una
+vez formados los grupos se comandan con el menú contextual (individual o
+grupal).&lt;/p&gt;
+&lt;p&gt;Además del menú contextual se pueden usar combinaciones de teclado o la técnica
+de arrastrar y soltar (drag and drop) con el mouse. Por ejemplo para liberarlos
+se los arrastra al espacio exterior (!) o desde &lt;em&gt;Drones in bay&lt;/em&gt; a &lt;em&gt;Drones in
+space&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;La orden para liberar los drones de la nave no se puede bindear al teclado, pero
+sí se puede bindear la orden para atacar, para retornar a la nave y para atacar.
+También se los puede controlar a través del overview.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ordenes"&gt;
+&lt;h2&gt;Órdenes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;Assist&lt;/em&gt;: asistir a otro miembro de la flota, para atacar el último de sus
+blancos (/Assist/). Si el otro miembro activa distintos módulos sobre
+distintos targets, los drones van a ir yendo de un blanco al otro, perdiendo
+eficacia.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Guard&lt;/em&gt;: proteger a otro miembro de la flota, es semejante a ponerlos en modo
+agresivo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mine&lt;/em&gt;: minan el objetivo durante un ciclo y retornan a la nave.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mine repeatedly&lt;/em&gt;: minan el objetivo hasta que se vacía.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Salvage&lt;/em&gt;: reciclan el wreck targeteado. Si no hay ninguno targeteado,
+reciclan todos los wrecks propios (siempre que estén dentro del rango). Para
+reciclar wrecks ajenos hay que targetearlos.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Return to drone bay&lt;/em&gt;: los drones detienen su acción y vuelven a la nave a
+máxima velocidad, donde re-doquean.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Abandon&lt;/em&gt;: abandono del dron (por ejemplo al querer cambiar de tipo de drone
+sin tener que esperar a que retornen). El dron se detiene y se vuelve inerte.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scoop to Cargo&lt;/em&gt;: recoge los drones en el cargo, para lo cual debe estar a
+menos de 2500m. Se usa cuando el drone bay está lleno o cuando se encuentra un
+dron abandonado.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scoop to drone bay&lt;/em&gt;: se usa para retornar al dron bay un dron deshabilitado,
+para poder relanzarlo (debe estar a menos de 2500m).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="skills"&gt;
+&lt;h2&gt;Skills&lt;/h2&gt;
+&lt;p&gt;Las skills más importantes para drones son:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;Drone interfacing&lt;/em&gt;: buff de 10% (por nivel) al daño.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone navigation&lt;/em&gt;: los hace más rápidos al usar su MWD. Permite que lleguen
+antes a rango de su objetivo y también es útil para recuperarlos en caso de
+urgencia para huir.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone Sharpshooting&lt;/em&gt;: incrementan el rango al cual los drones pueden disparar
+con efectividad, les permite ponerse en rango más rápido.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone Avionics&lt;/em&gt;: habilita el uso del módulo Drone Link Augmentor y también
+otorga un mayor rango de control sobre todos los drones (+5km/nivel).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Advanced Drone Avionics&lt;/em&gt;: habilita drones para EWAR y otorga mayor rango de
+control sobre todos los drones (+3km/nivel).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Light/Medium/Heavy/Sentry Drone Operations/Interfacing&lt;/em&gt;: incrementa el daño
+de su tipo de drone.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone Specialization&lt;/em&gt;: desbloquea los drones T2 e incrementa el daño de los
+mismos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Además hay que tener en cuenta los bonus de las naves. Por ejemplo la Vexor Navy
+Issue tiene bonus para drones que se incrementan según el nivel de la skill
+&lt;em&gt;Gallente Cruiser&lt;/em&gt; (y de una manera muy significativa).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="drone-modules"&gt;
+&lt;h2&gt;Drone Modules&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;Drone Damage Amplifier&lt;/em&gt;: low-slot, incrementa el daño de los drones.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone Link Augmentor&lt;/em&gt;: high slot, incrementa el rango de control de los
+drones.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone Navigation Computer&lt;/em&gt;: mid-slot, incrementa el envión que reciben los
+drones al activar el MWD (es más efectivo en drones livianos, pero también
+mejora el tiempo de /engage/ de los drones más pesados, lo cual podría
+suplirse con un Stasis Webifier para usar sobre el objetivo).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Omnidirectional Tracking Link&lt;/em&gt;: mid-slot, incrementa la velocidad de tracking
+y su rango óptimo (excelente para sentry, también puede usarse para mejorar el
+DPS de drones más grandes sobre naves más pequeñas y rápidas (medianos sobre
+fragatas, etc). Se cargan con /tracking scripts/.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Omnidirectional Tracking Enhancer&lt;/em&gt;: low-slot, semejante al anterior, con
+leves diferencias de estadísticas. No pueden usar /tracking scripts/, así que
+son menos efectivos pero se usan cuando no quedan mid-slots libres.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone Control Unit&lt;/em&gt;: sólo para naves capitales, permiten lanzar un dron
+extra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;También hay ocho tipos de rigs que afectan el funcionamiento de los drones
+(ver /Ship Modifications/ -&amp;gt; / Rigs/ -&amp;gt; /Drone Rigs/).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="otros-modulos-recomendados-para-pve"&gt;
+&lt;h2&gt;Otros módulos recomendados para PvE&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;Afterburner&lt;/em&gt; (para permitir el tanqueo por velocidad). El capacitor debe
+quedar estable. Recién se pueden equipar otras armas cuando queda capacidad
+sobrante en CPU y powergrid.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Damage control II&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Rigs para mejorar el tanqueo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="settings"&gt;
+&lt;h2&gt;Settings&lt;/h2&gt;
+&lt;p&gt;En la opción &amp;quot;Drone Settings&amp;quot; de la pantalla de drones (el cuadrado en la
+esquina superior izquierda) aparecen opciones para calibrar el comportamiento
+por defecto de los drones:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;Passive vs. Aggressive&lt;/em&gt;: en /pasivo/ sólo obedecen las órdenes del piloto (no
+atacan automaticamente), en /agresivo/ atacarán si el blanco potencial está
+dentro del rango y nos está disparando o nos está atacando con EWAR. No atacan
+sólo por que hayamos sido targeteados. En /agresivo/ siguen atacando incluso
+si están haciendo &amp;quot;jamming&amp;quot; contra nosotros (que es cuando nos impiden
+controlarlos).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Focus Fire&lt;/em&gt;: comanda a los drones a atacar un mismo target hasta destruirlo,
+en vez de dispersar el daño en distintos blancos.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fighter Settings&lt;/em&gt;: Attack and Follow. Opción avanzada... Los fighters
+perseguirán al blanco hasta que sea destruido, incluso si warpea.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="drones-desconectados"&gt;
+&lt;h2&gt;Drones desconectados&lt;/h2&gt;
+&lt;p&gt;Al warpear sin los drones o alejarse 250km de ellos por el motivo que sea, éstos
+quedan inertes. Si el dueño retorna al mismo grid o se acerca a los drones fuera
+de rango puede recuperarlos haciendo click con el botón derecho sobre el
+capacitor de la nave y seleccionando &amp;quot;Reconnect to Lost Drones&amp;quot;. Cualquier dron
+abandonado puede obtenerse así, es legal hacerlo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="uso-en-pve"&gt;
+&lt;h2&gt;Uso en PvE&lt;/h2&gt;
+&lt;p&gt;Los NPC pueden targetear a los drones. En general atacan a los que son más
+peligrosos, prefiriendo a los de tamaño similar al suyo:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Fragatas y cruceros de elite (fragatas de asalto, cruceros de asalto pesado y
+algunas otras naves con nombres especiales) targetean de drones pequeños
+hacia arriba.&lt;/li&gt;
+&lt;li&gt;Fragatas y cruceros comunes apuntan a drones medianos hacia arriba.&lt;/li&gt;
+&lt;li&gt;Battleships van por los drones grandes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Los drones que reciben daño se deberían retornar a la nave antes de que sean
+destruidos por el fuego enemigo, y cuando el NPC cambia su target (generalmente
+a nuestra nave) se los puede reenviar. Hay que considerar que nuestros drones
+seguirán recibiendo daño mientras viajan de retorno, por lo cual conviene evitar
+enviarlos muy lejos y también conviene llamarlos antes de que caiga del todo su
+escudo.&lt;/p&gt;
+&lt;p&gt;Los drones livianos no reciben daño de naves medianas, y los drones medianos no
+reciben daño de las naves grandes.&lt;/p&gt;
+&lt;p&gt;Cada facción de piratas es más sensible a un tipo de daño, por lo cual conviene
+elegir los drones que provocan más daño de esa clase (explosivo, cinético,
+térmico o electrónico). Sin embargo el daño no es la única variable a tener en
+cuenta. Por ejemplo los drones livianos de distintas razas (Acolytes,
+Hobgoblins, Hornets y Warriors) no solo se diferencian en la cantidad y tipo de
+daño que infligen sino en su velocidad, tracking, etc. Aunque están equilibrados
+en todas estas propiedades (los Minmatar son los más rápidos pero tienen el
+menor DPS) es esencial usar aquellos que mejor se adaptan al blanco a atacar. A
+los Angels Cartel hay que atacarlos con armas explosive o kinetic, por lo cual
+convienen los drones Caldari (Hornet, Vespa, Wasp), y los Minmatar (Warrior,
+Valkyrie, Berserker). Y aunque lo vayamos a comentar en otro post más específico
+sobre anomalías, nuestro shield debe estar también optimizado para resistir el
+daño explosivo y cinético que provocan los piratas del Angel Cartel. Se puede
+consultar una lista con el daño de los NPC en &lt;a class="reference external" href="http://games.chruker.dk/eve_online/damage_types.php"&gt;esta página&lt;/a&gt; (donde están los
+nombres de los NPC de la facción, que es una información menos frecuente, por
+ejemplo dentro del Angel Cartel: Angel, Domination, Gist, Gistatis, Gistii,
+Gistior, Gistum).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tacticas"&gt;
+&lt;h2&gt;Tácticas&lt;/h2&gt;
+&lt;p&gt;Estas sugerencias vienen de los consejos que recibí en la corporación y de mi
+experiencia con la Vexor Navy Issue, y se aplican si usamos drones móviles en
+vez de sentrys.&lt;/p&gt;
+&lt;p&gt;La mecánica para limpiar anomalías es warpear a 20km del sitio y ubicar
+inmediatamente un elemento fijo sobre el cual orbitar a 15km. Encender el escudo
+y el afterburner para iniciar el tanqueo a velocidad. Una alternativa es orbitar
+cercanamente a la nave targeteada (a la cual se llega con el AB o un MWD).&lt;/p&gt;
+&lt;p&gt;Conviene estar cerca de los drones, para que el tiempo de viaje desde y hacia la
+nave no haga peligrar que los recuperemos si tenemos que huir rápido (salvo que
+no tengamos problema en abandonarlos).&lt;/p&gt;
+&lt;p&gt;Para evitar que los drones o nuestra nave caigan bajo la acción de warp
+scramblers o stasis webifiers (que nos impiden ganar velocidad o huir) es mejor
+eliminar las naves pequeñas al principio.&lt;/p&gt;
+&lt;p&gt;Si hay capacidad suficiente para instalar módulos sin volver inestable el
+capacitor, entonces se pueden usar armas largas para aumentar el DPS o armas
+cortas para defenderse contra el ataque de naves pequeñas.&lt;/p&gt;
+&lt;p&gt;Desde mi punto de vista son más fáciles las anomalías con naves grandes que
+aquellas donde hay multitud de pequeñas y medianas. Por eso, no confiar
+ciegamente en los listados de dificultad de las anomalías, y estar atento a huir
+rápido si el match se complica.&lt;/p&gt;
+&lt;p&gt;Hay más información en esta página: [Using
+drones](&lt;a class="reference external" href="http://wiki.eveuniversity.org/Using_Drones"&gt;http://wiki.eveuniversity.org/Using_Drones&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="reciclado"&gt;
+&lt;h2&gt;Reciclado&lt;/h2&gt;
+&lt;p&gt;Se puede liberar el Mobile Tractor Unit (MTU) al iniciar el combate, ya que no
+será atacado por los piratas. El MTU juntará los wrecks y los looteará. Al
+acabar con los piratas, liberar los salvage drones y sin targetear nada darles
+la orden de reciclar. Los drones harán su trabajo. No olvidarse de recuperar el
+MTU y el cargo con el loot. Considerar que este proceso es cómodo, pero menos
+efectivo que usar una nave destinada especialmente a salvage (como un destructor
+o una Noctis).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="observaciones"&gt;
+&lt;h2&gt;Observaciones&lt;/h2&gt;
+&lt;p&gt;Se pueden encontrar drones abandonados con las /combat probes/.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Mon, 11 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-11:drones.html</guid><category>drones</category></item><item><title>Batallas perdidas</title><link>http://un-viaje-inesperado.github.io/batallas-perdidas.html</link><description>&lt;p&gt;El inicio de la guerra actual, hace algunos días, determinó el fin de la minería
+y el ajusticiamiento de piratas (mis fuentes de ingreso de isk) por la alta
+frecuencia de visitas indeseables. Sufrí la pérdida de 2 naves por errores
+propios, que voy a detallar para compartir la pesadumbre y la experiencia de la
+que pueden beneficiarse otros jugadores nuevos (yo llevo poco más de un mes en
+New Eden).&lt;/p&gt;
+&lt;p&gt;Perdí primero mi nave de rateo, una Vexor Navy Issue con cinco drones de facción
+y un &lt;em&gt;mobile tractor unit&lt;/em&gt; (MTU). En total, el killboard indica que además de la
+inocencia, perdí 91.8m de isk. La breve historia fue así: un neutral estaba
+estacionado en nuestro sistema desde el día anterior. Alguien dijo en &lt;em&gt;Intel&lt;/em&gt;
+(el canal donde los miembros de la alianza nos avisamos de la presencia de
+invasores) que no le prestemos atención a ese personaje, que era suyo y estaba
+inactivo. Eso fue por la noche. A la mañana siguiente veo que seguía allí, sin
+nadie más, así que salí confiado a matar piratas de Angels Cartel para
+incrementar mis arcas con algunas recompensas. Luego de un par de oleadas, veo
+que aparece cerca mío la fragata del indeseable, un triangulito azul en la
+ventana de overview, y allí entro en una alocada desesperación. Lo targueteo y
+al mismo tiempo trato de warpear hacia algún lado, pero no lo logro y en un
+abrir y cerrar de ojos aparece otra nave y me empieza a bajar. Tengo el corazón
+acelerado y la mente en blanco, sólo trato de warpear y no logro saber si me
+falta mucho o poco porque no se dónde mirar, sólo veo que mi escudo está cada
+vez más rojo. Cuando el daño penetra en la armadura la resistencia de la nave se
+desagota como un balde al que le seccionaron el fondo con un sable laser. Tomo
+nota mental: no debo confiar en rumores de desconocidos, incluso si son
+integrantes de la alianza. Capitalizar la experiencia significaría que la
+próxima vez que me encuentre en una situación parecida, debería alinearme con
+algun elemento que no requiera rotar la nave para warpear, para lo cual tendré
+que ser valiente (?), vencer mi desesperación mental y mirar con tranquilidad
+qué planetas o cosas hay en la dirección que apunta la nave (si en vez de
+orbitar pudiese ratear inmóvil, obviamente debería estar alineado para huir
+desde el inicio). Quizás no hubiese podido superar su Warp Scrambler II, pero si
+mis drones me daban aire, tal vez hubiese tenido alguna oportunidad de saltar.
+La fragata en realidad era un stealth bomber equipado con el Warp Scrambler y un
+Covert Cynosural Field Generator que abrió una puerta para que su cómplice, una
+Battleship BlackOps, me pisoteara.&lt;/p&gt;
+&lt;p&gt;Al día siguiente, tras una mudanza colectiva a un sistema supuestamente más
+tranquilo, enfilo a una anomalía minera con una Procurer a la que acababa de
+comprarle 7.5m en rigs. Encuentro la anomalía infectada de piratas, así que
+warpeo a un planeta cualquiera mientras miro qué otra sitio de mineo puedo
+visitar. Acá pierdo el hilo de los hechos, no se exactamente si fue todo así,
+pero lo reproduzco lo mejor que puedo. Volví a warpear hacia la base y en vez de
+quedarme atento hasta confirmar que dockeara, cambié de pantalla y me puse a
+leer en el navegador. Un par de minutos después vuelvo y descubro que la nave
+aún estaba viajando hacia la estación a su velocidad normal (fuera del warp) al
+tiempo que veo un neutral. Estoy lejos, no recuerdo exactamente pero eran unos
+80 km. Por suerte el neutral abandona el sistema y entonces cometo el error más
+grave: no hago nada, dejo que la nave siga su lento camino hacia la estación,
+cuando lo que debería haber hecho (lo pienso ahora, cómodo en el silencio de la
+noche) es warpear a un sitio cercano para colocarme a más de 150 km de la
+estación para poder volver a warpear-dockear. No lo hice, quizás para poder
+aprender del derramamiento de sangre; de repente en el sistema apareció una
+nutrida comitiva que en un instante acabó con mi esperanza de llegar a salvo. El
+kill lo lograron entre 14 pilotos, una masacre que sólo puede alegrar a un grupo
+de patoteros. El tercer error en esta secuencia de pérdidas había ocurrido
+antes: me olvidé de asegurar la nave, así que de los 32.5m dé pérdidas no llegué
+a recuperar un tercio.&lt;/p&gt;
+&lt;p&gt;Fly safe! (no como yo...)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Sat, 09 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-09:batallas-perdidas.html</guid><category>relatos</category><category>batallas</category></item></channel></rss>
