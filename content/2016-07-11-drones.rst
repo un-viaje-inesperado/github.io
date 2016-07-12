@@ -1,0 +1,304 @@
+:title: Drones
+:date: 2016-07-11 10:00
+:category: tutorial
+:tags: drones
+:author: Piloto X
+:excerpt: Drones
+:disqus_identifier: Drones
+
+Gran parte de este artículo está extraido de `Eve University`_.
+
+.. _Eve University: http://wiki.eveuniversity.org/Drones_101
+
+Los drones son una extensa familia de ayudantes que los pilotos poseen para
+realizar distintas tareas, desde el combate hasta la minería. En estas lineas
+nos centraremos en los drones de combate.
+
+Tipos de drones
+---------------
+
+- Combate:
+  
+  + **Light scouts** (livianos): se usan contra fragatas, destructores y otros
+    drones.
+  + **Medium scouts** (medianos): se usan contra Cruisers y Battlecruisers.
+  + **Heavy scouts** (pesados): se usan contra Battleships y targets
+    estacionarios.
+  + **Sentry**: son fijos, para blancos fijos o con pequeña velocidad angular
+    (no importa si se trata de battleships o fragatas). Tienen la ventaja de no
+    requerir tiempo de viaje para iniciar el daño o para retirarlos.
+    *Observación*: el resto de esta guía está más orientado a los scouts que a
+    los sentrys.
+- Mineros.
+- Recicladores: recuperan restos de las chatarras espaciales.
+- Logísticos: reparan escudos y armaduras de naves amigas (no propias).
+- De guerra electrónica: interfieren las naves enemigas, provocando problemas en
+  sus sensores y otros sistemas electrónicos.
+
+Dentro de cada clase hay distintos drones. Por ejemplo, los livianos fabricados
+por minmatar, gallente, caldari y amarr son los warriors, hobgoblin, hornet y
+acolyte, respectivamente. Cada uno de ellos provoca distinto tipo de daño
+(explosivo, térmico, cinético y electrónico), tienen diferente velocidad en su
+poder de fuego, etc. Por otra parte hay variaciones de estos drones que provocan
+una mezcla de daño, son las versiones "integrated" y "augmented", y además están
+otras versiones de facción. Muchas de las características están listadas en
+forma de tabla en `la página de Eve University`_.
+
+.. _la página de Eve University: http://wiki.eveuniversity.org/Drones
+
+Número de drones
+----------------
+
+Cada nave tiene dos características que afectan el número de drones que puede
+almacenar (el tamaño de su *drone bay*) y el número de drones que puede
+controlar (el ancho de banda). Cuando se libera desde la nave, cada dron ocupa
+una banda de frecuencias para poder controlarlo, por lo cual el ancho de banda
+de la nave limita el número de drones que puede liberar simultaneamente.
+
+Requerimientos:
+
+- Livianos: 5m3 y 5Mbit/seg
+- Medianos: 10m3 y 10Mbit/seg
+- Pesados: 25m3 y 25Mbit/seg
+
+Disponer en el drone bay de distinto tipo de drones permite más flexibilidad
+para liberar aquellos que hagan más daño al enemigo que enfrentamos, o para
+realizar distintas tareas en un mismo viaje. Por ejemplo, una Vexor (común)
+tiene 125m3 y 75 Mbit/seg de ancho de banda, por lo cual sólo puede liberar 3
+drones pesados (cada uno requiere 25 Mbit/seg). Los drones medianos requieren 10
+y los pequeños 5. La misma Vexor puede liberar 2 pesados + 2 medianos + 1
+liviano (= 2x25 + 2x10 + 5). Y además puede llevar drones de reciclaje (ocupan
+5m3 cada uno y 5 Mbit/seg) para el momento en que el combate termina.
+
+Rango de control
+----------------
+
+Sólo se pueden comandar los drones que estén dentro de una cierta distancia de
+la nave, que de base está en 20 km. Si el target está a una distancia mayor que
+este rango, los drones tampoco pueden atacarlo. Si el target está dentro del
+rango, pero durante el combate se aleja, los drones lo siguen. Éstos aún pueden
+ser recuperados por nuestra nave si están dentro de los 250km. Si se alejan más,
+quedan abandonados y hay que ir a recuperarlos.
+
+Ventana de control de drones
+----------------------------
+
+Al estar fuera de una estación, la nave con drones dispone de una ventana para
+controlarlos. Cada dron se representa en una linea con tres barras que indican
+el estado de su escudo (shield), armadura (armor) y estructura (hull). A medida
+que reciben daño estas barras se van poniendo rojas. Los drones pueden estar en
+el bay de la nave o en el espacio, lo cual se refleja porque aparecen debajo de
+*Drones in bay* o debajo de *Drones in space*.
+
+Los drones se pueden controlar individualmente, pero es más facil agruparlos
+para poder comandarlos en grupos (por ejemplo: todos los livianos). Para
+organizarlos en grupo hay que invocar su menú contextual y elegir "move to". Una
+vez formados los grupos se comandan con el menú contextual (individual o
+grupal).
+
+Además del menú contextual se pueden usar combinaciones de teclado o la técnica
+de arrastrar y soltar (drag and drop) con el mouse. Por ejemplo para liberarlos
+se los arrastra al espacio exterior (!) o desde *Drones in bay* a *Drones in
+space*.
+
+La orden para liberar los drones de la nave no se puede bindear al teclado, pero
+sí se puede bindear la orden para atacar, para retornar a la nave y para atacar.
+También se los puede controlar a través del overview.
+
+Órdenes
+-------
+
+- *Assist*: asistir a otro miembro de la flota, para atacar el último de sus
+  blancos (/Assist/). Si el otro miembro activa distintos módulos sobre
+  distintos targets, los drones van a ir yendo de un blanco al otro, perdiendo
+  eficacia.
+- *Guard*: proteger a otro miembro de la flota, es semejante a ponerlos en modo
+  agresivo.
+- *Mine*: minan el objetivo durante un ciclo y retornan a la nave.
+- *Mine repeatedly*: minan el objetivo hasta que se vacía.
+- *Salvage*: reciclan el wreck targeteado. Si no hay ninguno targeteado,
+  reciclan todos los wrecks propios (siempre que estén dentro del rango). Para
+  reciclar wrecks ajenos hay que targetearlos.
+- *Return to drone bay*: los drones detienen su acción y vuelven a la nave a
+  máxima velocidad, donde re-doquean.
+- *Abandon*: abandono del dron (por ejemplo al querer cambiar de tipo de drone
+  sin tener que esperar a que retornen). El dron se detiene y se vuelve inerte.
+- *Scoop to Cargo*: recoge los drones en el cargo, para lo cual debe estar a
+  menos de 2500m. Se usa cuando el drone bay está lleno o cuando se encuentra un
+  dron abandonado.
+- *Scoop to drone bay*: se usa para retornar al dron bay un dron deshabilitado,
+  para poder relanzarlo (debe estar a menos de 2500m).
+
+Skills
+------
+
+Las skills más importantes para drones son:
+
+- *Drone interfacing*: buff de 10% (por nivel) al daño.
+- *Drone navigation*: los hace más rápidos al usar su MWD. Permite que lleguen
+  antes a rango de su objetivo y también es útil para recuperarlos en caso de
+  urgencia para huir.
+- *Drone Sharpshooting*: incrementan el rango al cual los drones pueden disparar
+  con efectividad, les permite ponerse en rango más rápido.
+- *Drone Avionics*: habilita el uso del módulo Drone Link Augmentor y también
+  otorga un mayor rango de control sobre todos los drones (+5km/nivel).
+- *Advanced Drone Avionics*: habilita drones para EWAR y otorga mayor rango de
+  control sobre todos los drones (+3km/nivel).
+- *Light/Medium/Heavy/Sentry Drone Operations/Interfacing*: incrementa el daño
+  de su tipo de drone.
+- *Drone Specialization*: desbloquea los drones T2 e incrementa el daño de los
+  mismos.
+
+Además hay que tener en cuenta los bonus de las naves. Por ejemplo la Vexor Navy
+Issue tiene bonus para drones que se incrementan según el nivel de la skill
+*Gallente Cruiser* (y de una manera muy significativa).
+
+
+Drone Modules
+-------------
+
+- *Drone Damage Amplifier*: low-slot, incrementa el daño de los drones.
+- *Drone Link Augmentor*: high slot, incrementa el rango de control de los
+  drones.
+- *Drone Navigation Computer*: mid-slot, incrementa el envión que reciben los
+  drones al activar el MWD (es más efectivo en drones livianos, pero también
+  mejora el tiempo de /engage/ de los drones más pesados, lo cual podría
+  suplirse con un Stasis Webifier para usar sobre el objetivo).
+- *Omnidirectional Tracking Link*: mid-slot, incrementa la velocidad de tracking
+  y su rango óptimo (excelente para sentry, también puede usarse para mejorar el
+  DPS de drones más grandes sobre naves más pequeñas y rápidas (medianos sobre
+  fragatas, etc). Se cargan con /tracking scripts/.
+- *Omnidirectional Tracking Enhancer*: low-slot, semejante al anterior, con
+  leves diferencias de estadísticas. No pueden usar /tracking scripts/, así que
+  son menos efectivos pero se usan cuando no quedan mid-slots libres.
+- *Drone Control Unit*: sólo para naves capitales, permiten lanzar un dron
+  extra.
+
+También hay ocho tipos de rigs que afectan el funcionamiento de los drones
+(ver /Ship Modifications/ -> / Rigs/ -> /Drone Rigs/).
+
+Otros módulos recomendados para PvE
+-----------------------------------
+
+- *Afterburner* (para permitir el tanqueo por velocidad). El capacitor debe
+  quedar estable. Recién se pueden equipar otras armas cuando queda capacidad
+  sobrante en CPU y powergrid.
+- *Damage control II*
+- Rigs para mejorar el tanqueo.
+
+Settings
+--------
+
+En la opción "Drone Settings" de la pantalla de drones (el cuadrado en la
+esquina superior izquierda) aparecen opciones para calibrar el comportamiento
+por defecto de los drones:
+
+- *Passive vs. Aggressive*: en /pasivo/ sólo obedecen las órdenes del piloto (no
+  atacan automaticamente), en /agresivo/ atacarán si el blanco potencial está
+  dentro del rango y nos está disparando o nos está atacando con EWAR. No atacan
+  sólo por que hayamos sido targeteados. En /agresivo/ siguen atacando incluso
+  si están haciendo "jamming" contra nosotros (que es cuando nos impiden
+  controlarlos).
+- *Focus Fire*: comanda a los drones a atacar un mismo target hasta destruirlo,
+  en vez de dispersar el daño en distintos blancos.
+- *Fighter Settings*: Attack and Follow. Opción avanzada... Los fighters
+  perseguirán al blanco hasta que sea destruido, incluso si warpea.
+ 
+Drones desconectados
+--------------------
+
+Al warpear sin los drones o alejarse 250km de ellos por el motivo que sea, éstos
+quedan inertes. Si el dueño retorna al mismo grid o se acerca a los drones fuera
+de rango puede recuperarlos haciendo click con el botón derecho sobre el
+capacitor de la nave y seleccionando "Reconnect to Lost Drones". Cualquier dron
+abandonado puede obtenerse así, es legal hacerlo.
+
+Uso en PvE
+----------
+
+Los NPC pueden targetear a los drones. En general atacan a los que son más
+peligrosos, prefiriendo a los de tamaño similar al suyo:
+
+1. Fragatas y cruceros de elite (fragatas de asalto, cruceros de asalto pesado y
+   algunas otras naves con nombres especiales) targetean de drones pequeños
+   hacia arriba.
+2. Fragatas y cruceros comunes apuntan a drones medianos hacia arriba.
+3. Battleships van por los drones grandes.
+
+Los drones que reciben daño se deberían retornar a la nave antes de que sean
+destruidos por el fuego enemigo, y cuando el NPC cambia su target (generalmente
+a nuestra nave) se los puede reenviar. Hay que considerar que nuestros drones
+seguirán recibiendo daño mientras viajan de retorno, por lo cual conviene evitar
+enviarlos muy lejos y también conviene llamarlos antes de que caiga del todo su
+escudo.
+
+Los drones livianos no reciben daño de naves medianas, y los drones medianos no
+reciben daño de las naves grandes.
+
+Cada facción de piratas es más sensible a un tipo de daño, por lo cual conviene
+elegir los drones que provocan más daño de esa clase (explosivo, cinético,
+térmico o electrónico). Sin embargo el daño no es la única variable a tener en
+cuenta. Por ejemplo los drones livianos de distintas razas (Acolytes,
+Hobgoblins, Hornets y Warriors) no solo se diferencian en la cantidad y tipo de
+daño que infligen sino en su velocidad, tracking, etc. Aunque están equilibrados
+en todas estas propiedades (los Minmatar son los más rápidos pero tienen el
+menor DPS) es esencial usar aquellos que mejor se adaptan al blanco a atacar. A
+los Angels Cartel hay que atacarlos con armas explosive o kinetic, por lo cual
+convienen los drones Caldari (Hornet, Vespa, Wasp), y los Minmatar (Warrior,
+Valkyrie, Berserker). Y aunque lo vayamos a comentar en otro post más específico
+sobre anomalías, nuestro shield debe estar también optimizado para resistir el
+daño explosivo y cinético que provocan los piratas del Angel Cartel. Se puede
+consultar una lista con el daño de los NPC en `esta página`_ (donde están los
+nombres de los NPC de la facción, que es una información menos frecuente, por
+ejemplo dentro del Angel Cartel: Angel, Domination, Gist, Gistatis, Gistii,
+Gistior, Gistum).
+
+.. _esta página: http://games.chruker.dk/eve_online/damage_types.php
+
+Tácticas
+--------
+
+Estas sugerencias vienen de los consejos que recibí en la corporación y de mi
+experiencia con la Vexor Navy Issue, y se aplican si usamos drones móviles en
+vez de sentrys.
+
+La mecánica para limpiar anomalías es warpear a 20km del sitio y ubicar
+inmediatamente un elemento fijo sobre el cual orbitar a 15km. Encender el escudo
+y el afterburner para iniciar el tanqueo a velocidad. Una alternativa es orbitar
+cercanamente a la nave targeteada (a la cual se llega con el AB o un MWD).
+
+Conviene estar cerca de los drones, para que el tiempo de viaje desde y hacia la
+nave no haga peligrar que los recuperemos si tenemos que huir rápido (salvo que
+no tengamos problema en abandonarlos).
+
+Para evitar que los drones o nuestra nave caigan bajo la acción de warp
+scramblers o stasis webifiers (que nos impiden ganar velocidad o huir) es mejor
+eliminar las naves pequeñas al principio.
+
+Si hay capacidad suficiente para instalar módulos sin volver inestable el
+capacitor, entonces se pueden usar armas largas para aumentar el DPS o armas
+cortas para defenderse contra el ataque de naves pequeñas.
+
+Desde mi punto de vista son más fáciles las anomalías con naves grandes que
+aquellas donde hay multitud de pequeñas y medianas. Por eso, no confiar
+ciegamente en los listados de dificultad de las anomalías, y estar atento a huir
+rápido si el match se complica.
+
+Hay más información en esta página: [Using
+drones](http://wiki.eveuniversity.org/Using_Drones).
+
+Reciclado
+---------
+
+Se puede liberar el Mobile Tractor Unit (MTU) al iniciar el combate, ya que no
+será atacado por los piratas. El MTU juntará los wrecks y los looteará. Al
+acabar con los piratas, liberar los salvage drones y sin targetear nada darles
+la orden de reciclar. Los drones harán su trabajo. No olvidarse de recuperar el
+MTU y el cargo con el loot. Considerar que este proceso es cómodo, pero menos
+efectivo que usar una nave destinada especialmente a salvage (como un destructor
+o una Noctis).
+
+Observaciones
+-------------
+
+Se pueden encontrar drones abandonados con las /combat probes/.
