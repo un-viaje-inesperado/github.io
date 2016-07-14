@@ -1,5 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 12 Jul 2016 10:00:00 -0300</lastBuildDate><item><title>Piratas en las anomalías del Caribe</title><link>http://un-viaje-inesperado.github.io/piratas-en-las-anomalias-del-caribe.html</link><description>&lt;p&gt;Cazar piratas es una fuente de ingreso de divisas para los pilotos en New Eden.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 14 Jul 2016 10:00:00 -0300</lastBuildDate><item><title>Más alla del dosmil</title><link>http://un-viaje-inesperado.github.io/mas-alla-del-dosmil.html</link><description>&lt;p&gt;Nadie que haya sido fanático de &lt;em&gt;Una ventana hacia el futuro&lt;/em&gt; (Beyond 2000,
+transmitido por un canal de Chile que veíamos por cable en la Argentina de los
+'90) puede dar vueltas por los sistemas de New Eden sin dedicarse a la
+exploración, que consiste en identificar sitios con tesoros ocultos.&lt;/p&gt;
+&lt;p&gt;La tarea se inicia mirando si existen anomalías señaladas como &lt;em&gt;Cosmic
+Anomalies&lt;/em&gt; en el Probe Scanner. El paso siguiente es identificar su tipo (si es
+de reliquias, de datos o si lo que emite señales cósmicas es un wormhole) y
+determinar con exactitud su posición, tareas para las que se liberan ocho sondas
+que se comandan desde una ventana especial desde nuestra nave. Posicionar las
+sondas en el sistema planetario requiere destreza para determinar con precisión
+(y rapidez) la ubicación de estos débiles rastros cósmicos. Dentro de los sitios
+de datos y reliquias esperan tesoros resguardados por un sistema de seguridad.
+El último paso es realizar un hackeo que nos dará acceso al loot. La anomalía
+desaparecerá y posiblemente se regenerará en el futuro, en otro punto del
+sistema.&lt;/p&gt;
+&lt;p&gt;Me voy a saltear la descripción detallada porque hay muchos sitios donde leer el
+protocolo de exploración. Sólo me refiero a algunos elementos que no me
+resultaban claros cuando empecé:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Se puede explorar en null-sec con fragatas T1. Las cuatro fragatas funcionan,
+aunque predominan los que recomiendan la Heron (Caldari) por sus 5 mid-slots y
+en segundo lugar la Imicus (Gallente, tiene 4 mid-slot), ya que en los
+mid-slots se ubican módulos importantes para exploración. La desventaja de la
+Imicus contra la Heron desaparece al comparar las fragatas T2 de Caldari y
+Gallente: tanto la Buzzard como la Helios poseen 5 mid-slots. A continuación
+algunos fiteos estándar:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[Heron, T1 Explo Heron]&lt;/p&gt;
+&lt;p&gt;Nanofiber Internal Structure I
+Nanofiber Internal Structure I&lt;/p&gt;
+&lt;p&gt;5MN Quad LiF Restrained Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Scan Rangefinding Array I
+Scan Acquisition Array I&lt;/p&gt;
+&lt;p&gt;Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I&lt;/p&gt;
+&lt;p&gt;Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]&lt;/p&gt;
+&lt;p&gt;[Imicus, T1 Explo Imicus]&lt;/p&gt;
+&lt;p&gt;Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I&lt;/p&gt;
+&lt;p&gt;5MN Y-T8 Compact Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Cargo Scanner I&lt;/p&gt;
+&lt;p&gt;Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I&lt;/p&gt;
+&lt;p&gt;Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Secuencia de mejoras: el &lt;em&gt;Core Probe Launcher I&lt;/em&gt; (30k) lleva 8 sondas: &lt;em&gt;Core
+Scanner Probe I&lt;/em&gt; (8x 7k = 56k). Al ganar confianza cambiarlas las sondas a 8x
+&lt;em&gt;Sisters Core Scanner Probes&lt;/em&gt; (8x 360k = 2.88m) y más adelante el lanzador a
+&lt;em&gt;Sisters Core Probe Launcher&lt;/em&gt; (29m). Luego se podría considerar el
+entrenamiento de Astrometrics V para poder usar &lt;em&gt;Core Probe Launcher II&lt;/em&gt; (2m).&lt;/li&gt;
+&lt;li&gt;No se puede estar clokeado (invisible) para lanzar ni para recuperar las
+probes. Tampoco se puede hackear un sitio. Sin embargo sí se puede escanear.&lt;/li&gt;
+&lt;li&gt;El escaneo se debe hacer cloakeado desde un lugar seguro (&lt;a class="reference external" href="http://wiki.eveuniversity.org/Safe_Spot"&gt;safe spot&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Si estamos cloakeados en un sitio y aparece un elemento a menos de 2000m o
+2500m (por ejemplo otra nave que acudió al mismo relic-site en busca de
+tesoros o de fragatas frágiles) perderemos la invisibilidad.&lt;/li&gt;
+&lt;li&gt;Al menos en un sitio de datos (el primero que descubro) aparecieron
+NPCs -creo que eran drones- que me mataron. Estoy seguro de que no fueron
+otros jugadores porque estuve todo el tiempo en soledad en el sistema. La
+fragata resiste muy poco daño, así que hay que estar atentos al local, al
+overview y al escaner direccional, siempre listos para huir.&lt;/li&gt;
+&lt;li&gt;Como los exploradores viajan entre sistemas para buscar anomalías y luego
+tienen que regresar a casa, se enfrentan a gate-camps y burbujas. Hay que
+aprender el truco de MWD y cloak, o usar fragatas covops para poder evadirlas
+sanos y salvos. El tiempo en que se puede activar el MWD después del cloak
+puede llegar a varios segundos (creo que son 5). En este tiempo se pueden
+activar módulos que no sean agresivos (no sólo el MWD). No es necesario
+desactivar el MWD luego de su primer ciclo ya que se desactiva solo. La idea
+es que estemos cerca de la velocidad de inicio de warp al descloakearnos, con
+este propósito se usa el MWD, para neutralizar la penalización de velocidad
+del cloak. Básicamente el truco consiste en:&lt;ul&gt;
+&lt;li&gt;Llegar saltando desde un sistema y descubrir una flota campeando la gate
+con una burbuja anti-warpeo.&lt;/li&gt;
+&lt;li&gt;Maldecir a todos los dioses de New Heaven y buscar tranquilidad,
+tendremos un minuto de inmunidad siendo invisibles.&lt;/li&gt;
+&lt;li&gt;Elegir un destino.&lt;/li&gt;
+&lt;li&gt;Alinear en esa dirección (con lo cual perdemos la invisibilidad) e
+inmediatamente activar el cloak (conviene ubicarlo en F1).&lt;/li&gt;
+&lt;li&gt;Activar el MWD (ubicarlo en Alt-F1 o en F2)&lt;/li&gt;
+&lt;li&gt;Spamear el botón de Warp (al alinear debería haber quedado seleccionado el
+objetivo).&lt;/li&gt;
+&lt;li&gt;Cuando el ciclo del MWD esté por completarse, descloakear. Automáticamente
+tendrá prevalencia el warpeo que estuvimos spameando, nadie podrá
+targetearnos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La nave puede moverse con el cloak puesto (sin warp), aunque sufre una
+penalización en la velocidad, por lo que se mueve al 10% de su máximo. Aún
+así, creo que conviene tirarse el cloak manteniendo el movimiento, ya que si
+por algún motivo nos vieron al colocarnos la manta de invisibilidad, van a
+tener menos chances de dar con nosotros si nos alejamos del lugar, aunque sea
+despacio (calculo que igual podrían encontrarnos, pero tratamos de reducir
+chances). Además, vale el truco de usar el primer ciclo del MWD inmediatamente
+después de activar el cloak). Hay que apuntar en dirección a un lugar vacío.&lt;/li&gt;
+&lt;li&gt;La secuencia puede ser:&lt;ul&gt;
+&lt;li&gt;Warp a 100km de algún planeta o cinturón de asteroides.&lt;/li&gt;
+&lt;li&gt;Apuntar en una dirección vacía.&lt;/li&gt;
+&lt;li&gt;Liberar las sondas&lt;/li&gt;
+&lt;li&gt;Activar cloak.&lt;/li&gt;
+&lt;li&gt;Activar el MWD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Si estamos esperando que termine el período refractario del cloak podemos
+warpear a distintos lugares para que el tiempo se consuma. No importa dónde
+liberamos las sondas.&lt;/li&gt;
+&lt;li&gt;Desde una fragata covops se puede activar el cloak incluso en el medio de un
+warp.&lt;/li&gt;
+&lt;li&gt;Se puede recentrar el sistema en el mapa manteniendo el botón derecho del
+mouse presionado.&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Thu, 14 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-14:mas-alla-del-dosmil.html</guid><category>exploración</category><category>guias</category></item><item><title>Piratas en las anomalías del Caribe</title><link>http://un-viaje-inesperado.github.io/piratas-en-las-anomalias-del-caribe.html</link><description>&lt;p&gt;Cazar piratas es una fuente de ingreso de divisas para los pilotos en New Eden.
 Cada una de estas naves de ilegales posee una recompensa. Si logramos
 destruirlas entonces cobramos el importe total menos el impuesto a las ganancias
 que nos descuenta la corporación (el 4% en Area-52).&lt;/p&gt;
@@ -72,17 +193,18 @@ difíciles.&lt;/p&gt;
 permita limpiar las sucesivas olas de ratas sin tener que volver a repararla, o
 hacerlo sólo una o dos veces. En esto también influye el nivel de las skills que
 hayamos entrenado. Al principio, con la Vexor normal bajaba un par de piratas y
-debía huir porque ya peligraba el escudo, con el riesgo de quedar atrapado por
-el Warp Scrambler de una fragata, o también arriesgaba la armadura debido a la
-lentitud de los drones pesados en retornar (tampoco es redituable dejarlos
-abandonados cada vez que huimos). Si les pasa eso, vean qué skills necesitan
-subir para mejorar su dps y su escudo, y tengan paciencia. Mientras esperan a
-que el entrenamiento brinde sus frutos, quizás puedan dedicarse a prestar
-servicios de protección a los mineros en las anomalías.&lt;/p&gt;
+debía huir porque ya peligraba mi escudo, con el riesgo adicional de quedar
+atrapado por el Warp Scrambler de una fragata, o también arriesgaba la armadura
+debido a la lentitud de los drones pesados para retornar (ya que tampoco es
+redituable dejarlos abandonados cada vez que haya que salir corriendo). Si les
+pasa eso, vean qué skills necesitan subir para mejorar su dps y su escudo, y
+tengan paciencia. Mientras esperan a que el entrenamiento brinde sus frutos,
+quizás puedan dedicarse a prestar servicios de protección a los mineros en las
+anomalías.&lt;/p&gt;
 &lt;p&gt;Para tener una idea de las ganancias de ISK, tras un mes de juego con
-entrenamiento bastante orientado al rateo, logro sacar unos 25 millones de isk
-por hora. Pilotos más antiguos dan cifras tres veces mayores con esta misma
-actividad.&lt;/p&gt;
+entrenamiento bastante orientado al rateo (y si no sufro interrupciones por la
+visita de enemigos), logro sacar unos 25 millones de isk por hora. Pilotos más
+antiguos dan cifras tres veces mayores con esta misma actividad.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Tue, 12 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-12:piratas-en-las-anomalias-del-caribe.html</guid><category>guias</category></item><item><title>Drones</title><link>http://un-viaje-inesperado.github.io/drones.html</link><description>&lt;p&gt;Gran parte de este artículo está extraido de &lt;a class="reference external" href="http://wiki.eveuniversity.org/Drones_101"&gt;Eve University&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Los drones son una extensa familia de ayudantes que los pilotos poseen para
 realizar distintas tareas, desde el combate hasta la minería. En estas lineas

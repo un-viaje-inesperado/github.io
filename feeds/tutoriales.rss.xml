@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/tutoriales.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 14 Jul 2016 10:00:00 -0300</lastBuildDate><item><title>Manual del explorador</title><link>http://un-viaje-inesperado.github.io/manual-del-explorador.html</link><description>&lt;p&gt;Nadie que haya sido fanático de &lt;em&gt;Una ventana hacia el futuro&lt;/em&gt; (Beyond 2000,
+transmitido por un canal de Chile que veíamos por cable en la Argentina de los
+'90) puede dar vueltas por los sistemas de New Eden sin dedicarse a la
+exploración, que consiste en identificar sitios con tesoros ocultos.&lt;/p&gt;
+&lt;p&gt;La tarea se inicia mirando si existen anomalías señaladas como &lt;em&gt;Cosmic
+Anomalies&lt;/em&gt; en el Probe Scanner. El paso siguiente es identificar su tipo (si es
+de reliquias, de datos o si lo que emite señales cósmicas es un wormhole) y
+determinar con exactitud su posición, tareas para las que se liberan ocho sondas
+que se comandan desde una ventana especial desde nuestra nave. Posicionar las
+sondas en el sistema planetario requiere destreza para determinar con precisión
+(y rapidez) la ubicación de estos débiles rastros cósmicos. Dentro de los sitios
+de datos y reliquias esperan tesoros resguardados por un sistema de seguridad,
+así que el último paso es realizar un hackeo que nos da acceso al loot. La
+anomalía desaparecerá y posiblemente se regenerará en el futuro, en otro punto
+del sistema.&lt;/p&gt;
+&lt;p&gt;Me voy a saltear la descripción detallada porque hay muchos sitios donde leer el
+protocolo de exploración. Sólo me refiero a algunos elementos que no me
+resultaban claros cuando empecé:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Se puede explorar en null-sec con fragatas T1. Las cuatro fragata funcionan,
+aunque predominan los que recomiendan las Caldari por el número de mid-slots y
+en segundo lugar las Gallente (que tienen un mid-slot menos, pero luego en las
+fragatas T2 se equiparan). Estos fiteos son adecuados, en los mid-slot se
+pueden probar distintas combinaciones de módulos (&lt;em&gt;para ampliar&lt;/em&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[Heron, T1 Explo Heron]&lt;/p&gt;
+&lt;p&gt;Nanofiber Internal Structure I
+Nanofiber Internal Structure I&lt;/p&gt;
+&lt;p&gt;5MN Quad LiF Restrained Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Scan Rangefinding Array I
+Scan Acquisition Array I&lt;/p&gt;
+&lt;p&gt;Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I&lt;/p&gt;
+&lt;p&gt;Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]&lt;/p&gt;
+&lt;p&gt;[Imicus, T1 Explo Imicus]&lt;/p&gt;
+&lt;p&gt;Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I&lt;/p&gt;
+&lt;p&gt;5MN Y-T8 Compact Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Cargo Scanner I&lt;/p&gt;
+&lt;p&gt;Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I&lt;/p&gt;
+&lt;p&gt;Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Secuencia de mejoras: el &lt;em&gt;Core Probe Launcher I&lt;/em&gt; (30k) lleva 8 sondas: &lt;em&gt;Core
+Scanner Probe I&lt;/em&gt; (8x 7k = 56k). Al ganar confianza cambiarlas las sondas a 8x
+&lt;em&gt;Sisters Core Scanner Probes&lt;/em&gt; (8x 360k = 2.88m) y más adelante el lanzador a
+&lt;em&gt;Sisters Core Probe Launcher&lt;/em&gt; (29m). Luego se podría considerar el
+entrenamiento de Astrometrics V para poder usar &lt;em&gt;Core Probe Launcher II&lt;/em&gt; (2m).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;No se puede estar clokeado (invisible) para lanzar ni para recuperar las
+probes. Tampoco se puede hackear un sitio. Sin embargo sí se puede escanear.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;El escaneo se debe hacer cloakeado desde un lugar seguro (&lt;a class="reference external" href="http://wiki.eveuniversity.org/Safe_Spot"&gt;safe spot&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Si estamos cloakeados en un sitio y aparece un elemento a menos de 2000m o
+2500m (por ejemplo otra nave que acudió al mismo relic-site en busca de
+tesoros o de fragatas frágiles) perderemos la invisibilidad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Al menos en un sitio de datos (el primero que descubro) aparecieron
+NPCs -creo que eran drones- que me mataron. Estoy seguro de que no fueron
+otros jugadores porque estuve todo el tiempo en soledad en el sistema. La
+fragata resiste muy poco daño, así que hay que estar atentos al local, al
+overview y al escaner direccional, siempre listos para huir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Como los exploradores viajan entre sistemas para buscar anomalías y luego
+tienen que regresar a casa, se enfrentan a gate-camps y burbujas. Hay que
+aprender el truco de MWD y cloak, o usar fragatas covops para poder evadirlas
+sanos y salvos. El tiempo en que se puede activar el MWD después del cloak
+puede llegar a varios segundos (creo que son 5). En este tiempo se pueden
+activar módulos que no sean agresivos (no sólo el MWD). No es necesario
+desactivar el MWD luego de su primer ciclo ya que se desactiva solo. La idea
+es que estemos a velocidad de inicio de warp al desclokearnos, con este
+propósito se usa el MWD, para neutralizar la penalización de velocidad del
+cloak. Básicamente el truco consiste en:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Llegar saltando desde un sistema y descubrir una flota campeando la gate
+con una burbuja anti-warpeo.&lt;/li&gt;
+&lt;li&gt;Maldecir a todos los dioses de New Heaven y buscar tranquilidad,
+tendremos un minuto de inmunidad siendo invisibles.&lt;/li&gt;
+&lt;li&gt;Elegir un destino.&lt;/li&gt;
+&lt;li&gt;Alinear en esa dirección (con lo cual perdemos la invisibilidad) e
+inmediatamente activar el cloak (conviene ubicarlo en F1).&lt;/li&gt;
+&lt;li&gt;Activar el MWD (ubicarlo en Alt-F1 o en F2)&lt;/li&gt;
+&lt;li&gt;Spamear el botón de Warp (al alinear debería haber quedado seleccionado el
+objetivo).&lt;/li&gt;
+&lt;li&gt;Cuando el ciclo del MWD esté por completarse, desclokear. Automáticamente
+tendrá prevalencia el warpeo que estuvimos spameando, nadie podrá
+targetearnos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;La nave puede moverse con el cloak puesto (sin warp), aunque sufre una
+penalización en la velocidad, por lo que se mueve al 10% de su máximo. Aún
+así, creo que conviene tirarse el cloak manteniendo el movimiento, ya que si
+por algún motivo nos vieron al colocarnos la manta de invisibilidad, van a
+tener menos chances de dar con nosotros si nos alejamos del lugar, aunque sea
+despacio (calculo que igual podrían encontrarnos, pero tratamos de reducir
+chances). Además, vale el truco de usar el primer ciclo del MWD inmediatamente
+después de activar el cloak). Hay que apuntar en dirección a un lugar vacío.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;La secuencia puede ser:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Warp a 100km de algún planeta o cinturón de asteroides.&lt;/li&gt;
+&lt;li&gt;Apuntar en una dirección vacía.&lt;/li&gt;
+&lt;li&gt;Liberar las sondas&lt;/li&gt;
+&lt;li&gt;Activar cloak.&lt;/li&gt;
+&lt;li&gt;Activar el MWD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Si estamos esperando que termine el período refractario del cloak podemos
+warpear a distintos lugares para que el tiempo se consuma. No importa dónde
+liberamos las sondas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Desde una fragata covops se puede activar el cloak incluso en el medio de un
+warp.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Se puede recentrar el sistema en el mapa manteniendo el botón derecho del
+mouse presionado.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Thu, 14 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-14:manual-del-explorador.html</guid><category>exploración</category></item></channel></rss>
