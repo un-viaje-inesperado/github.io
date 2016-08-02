@@ -134,8 +134,8 @@ Skills
 
 Las skills más importantes para drones son:
 
-- *Drone interfacing*: buff de 10% (por nivel) al daño.
-- *Drone navigation*: los hace más rápidos al usar su MWD. Permite que lleguen
+- *Drone Interfacing*: buff de 10% (por nivel) al daño.
+- *Drone Navigation*: los hace más rápidos al usar su MWD. Permite que lleguen
   antes a rango de su objetivo y también es útil para recuperarlos en caso de
   urgencia para huir.
 - *Drone Sharpshooting*: incrementan el rango al cual los drones pueden disparar
@@ -146,8 +146,8 @@ Las skills más importantes para drones son:
   control sobre todos los drones (+3km/nivel).
 - *Light/Medium/Heavy/Sentry Drone Operations/Interfacing*: incrementa el daño
   de su tipo de drone.
-- *Drone Specialization*: desbloquea los drones T2 e incrementa el daño de los
-  mismos.
+- *(racial) Drone Specialization*: desbloquea los drones raciales T2 e
+  incrementa el daño de los mismos.
 
 Además hay que tener en cuenta los bonus de las naves. Por ejemplo la Vexor Navy
 Issue tiene bonus para drones que se incrementan según el nivel de la skill
@@ -166,8 +166,9 @@ Drone Modules
   suplirse con un Stasis Webifier para usar sobre el objetivo).
 - *Omnidirectional Tracking Link*: mid-slot, incrementa la velocidad de tracking
   y su rango óptimo (excelente para sentry, también puede usarse para mejorar el
-  DPS de drones más grandes sobre naves más pequeñas y rápidas (medianos sobre
-  fragatas, etc). Se cargan con /tracking scripts/.
+  DPS de drones grandes y lentos sobre naves pequeñas y rápidas. Se pueden
+  cargar con /tracking scripts/ que mejoran un aspecto (range, tracking) a
+  expensas del otro.
 - *Omnidirectional Tracking Enhancer*: low-slot, semejante al anterior, con
   leves diferencias de estadísticas. No pueden usar /tracking scripts/, así que
   son menos efectivos pero se usan cuando no quedan mid-slots libres.
@@ -257,6 +258,8 @@ Gistior, Gistum).
 
 Tácticas
 --------
+
+(ver también el artículo sobre ratear con la VNI)
 
 Estas sugerencias vienen de los consejos que recibí en la corporación y de mi
 experiencia con la Vexor Navy Issue, y se aplican si usamos drones móviles en

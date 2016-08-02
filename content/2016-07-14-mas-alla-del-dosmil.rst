@@ -28,51 +28,56 @@ protocolo de exploración. Sólo me refiero a algunos elementos que no me
 resultaban claros cuando empecé:
 
 - Se puede explorar en null-sec con fragatas T1. Las cuatro fragatas funcionan,
-  aunque predominan los que recomiendan la Heron (Caldari) por sus 5 mid-slots y
-  en segundo lugar la Imicus (Gallente, tiene 4 mid-slot), ya que en los
-  mid-slots se ubican módulos importantes para exploración. La desventaja de la
-  Imicus contra la Heron desaparece al comparar las fragatas T2 de Caldari y
-  Gallente: tanto la Buzzard como la Helios poseen 5 mid-slots. A continuación
-  algunos fiteos estándar:
+  aunque predominan los que recomiendan la Heron (Caldari) porque provee la
+  mayor cantidad de mid-slots, donde se ubican módulos imprescindibles o
+  importantes para exploración. La Heron posee 5 y le sigue la Imicus (Gallente)
+  con 4. La desventaja de la Imicus contra la Heron desaparece al comparar las
+  fragatas T2 de Caldari y Gallente: tanto la Buzzard como la Helios poseen 5
+  mid-slots (la diferencia está en la distribución de high/lows: 3/2 para la
+  Heron y 2/3 para la Helios).
 
-[Heron, T1 Explo Heron]
+  Esta es una configuración estándar para la fragata Caldari::
 
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
+      [Heron, T1 Explo Heron]
 
-5MN Quad LiF Restrained Microwarpdrive
-Relic Analyzer I
-Data Analyzer I
-Scan Rangefinding Array I
-Scan Acquisition Array I
+      Prototype Cloaking Device I
+      Core Probe Launcher I, Core Scanner Probe I
+      Salvager I
 
-Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-Salvager I
+      5MN Quad LiF Restrained Microwarpdrive
+      Relic Analyzer I
+      Data Analyzer I
+      Scan Rangefinding Array I
+      Scan Acquisition Array I
 
-Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-[Empty Rig slot]
+      Nanofiber Internal Structure I
+      Nanofiber Internal Structure I
+
+      Small Gravity Capacitor Upgrade I
+      Small Gravity Capacitor Upgrade I
+      [Empty Rig slot]
 
 
-[Imicus, T1 Explo Imicus]
+  Esta es una configuración estándar para la fragata Gallente::
 
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
+      [Imicus, T1 Explo Imicus]
 
-5MN Y-T8 Compact Microwarpdrive
-Data Analyzer I
-Relic Analyzer I
-Cargo Scanner I
+      Prototype Cloaking Device I
+      Core Probe Launcher I, Core Scanner Probe I
+      Salvager I
 
-Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-Salvager I
+      5MN Y-T8 Compact Microwarpdrive
+      Data Analyzer I
+      Relic Analyzer I
+      Cargo Scanner I
 
-Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-[Empty Rig slot]
+      Nanofiber Internal Structure I
+      Nanofiber Internal Structure I
+      Nanofiber Internal Structure I
+
+      Small Gravity Capacitor Upgrade I
+      Small Gravity Capacitor Upgrade I
+      [Empty Rig slot]
 
 - Secuencia de mejoras: el *Core Probe Launcher I* (30k) lleva 8 sondas: *Core
   Scanner Probe I* (8x 7k = 56k). Al ganar confianza cambiarlas las sondas a 8x
@@ -80,10 +85,12 @@ Small Gravity Capacitor Upgrade I
   *Sisters Core Probe Launcher* (29m). Luego se podría considerar el
   entrenamiento de Astrometrics V para poder usar *Core Probe Launcher II* (2m).
 
-- No se puede estar clokeado (invisible) para lanzar ni para recuperar las
-  probes. Tampoco se puede hackear un sitio. Sin embargo sí se puede escanear.
+- No se puede estar clokeado (invisible) para lanzar probes ni para hackear un
+  sitio. Sin embargo sí se puede escanear para determinar qué clase de Cosmic
+  Signature hay en el sistema y también se pueden recuperar las probes durante
+  la invisibilidad.
 
-- El escaneo se debe hacer cloakeado desde un lugar seguro (`safe spot`_).
+- El escaneo conviene hacerlo cloakeado desde un lugar seguro (`safe spot`_).
 
   .. _safe spot: http://wiki.eveuniversity.org/Safe_Spot
 
@@ -91,27 +98,27 @@ Small Gravity Capacitor Upgrade I
   2500m (por ejemplo otra nave que acudió al mismo relic-site en busca de
   tesoros o de fragatas frágiles) perderemos la invisibilidad.
 
-- Al menos en un sitio de datos (el primero que descubro) aparecieron
-  NPCs -creo que eran drones- que me mataron. Estoy seguro de que no fueron
-  otros jugadores porque estuve todo el tiempo en soledad en el sistema. La
-  fragata resiste muy poco daño, así que hay que estar atentos al local, al
-  overview y al escaner direccional, siempre listos para huir.
+- No hay que preocuparse por ratas en los sitios de exploración. O mejor sí
+  preocuparse un poco. En el primer sitio de datos al que fui aparecieron NPCs
+  (creo que eran drones) mientras trataba de completar un hackeo, y me mataron
+  en 3 segundos. Debe haber sido un Ghost Site. La pobre fragata resiste muy
+  poco daño, hay que estar atentos al local, al overview y al escaner
+  direccional, siempre listos para huir.
 
 - Como los exploradores viajan entre sistemas para buscar anomalías y luego
   tienen que regresar a casa, se enfrentan a gate-camps y burbujas. Hay que
-  aprender el truco de MWD y cloak, o usar fragatas covops para poder evadirlas
-  sanos y salvos. El tiempo en que se puede activar el MWD después del cloak
-  puede llegar a varios segundos (creo que son 5). En este tiempo se pueden
-  activar módulos que no sean agresivos (no sólo el MWD). No es necesario
-  desactivar el MWD luego de su primer ciclo ya que se desactiva solo. La idea
-  es que estemos cerca de la velocidad de inicio de warp al descloakearnos, con
-  este propósito se usa el MWD, para neutralizar la penalización de velocidad
-  del cloak. Básicamente el truco consiste en:
+  aprender el truco del microwarpdrive (MWD) y cloak, o usar fragatas covops
+  para poder evadirlas sanos y salvos. El tiempo en que se puede activar el MWD
+  después del cloak puede llegar a varios segundos (creo que son 5). En este
+  tiempo se pueden activar módulos que no sean agresivos (no sólo el MWD). No es
+  necesario desactivar el MWD luego de su primer ciclo ya que se desactiva solo.
+  La idea es que al inactivar el cloak estemos cerca de la velocidad de inicio
+  de warp. Con este propósito se usa el MWD, para neutralizar la penalización de
+  velocidad del cloak. Básicamente el truco consiste en:
 
-  + Llegar saltando desde un sistema y descubrir una flota campeando la gate
-    con una burbuja anti-warpeo.
-  + Maldecir a todos los dioses de New Heaven y buscar tranquilidad,
-    tendremos un minuto de inmunidad siendo invisibles.
+  + Llegar saltando desde un sistema y descubrir una flota campeando la gate. 
+  + Maldecir a todos los dioses de New Heaven y buscar tranquilidad, tendremos
+    un minuto de inmunidad siendo invisibles.
   + Elegir un destino.
   + Alinear en esa dirección (con lo cual perdemos la invisibilidad) e
     inmediatamente activar el cloak (conviene ubicarlo en F1).
@@ -121,6 +128,11 @@ Small Gravity Capacitor Upgrade I
   + Cuando el ciclo del MWD esté por completarse, descloakear. Automáticamente
     tendrá prevalencia el warpeo que estuvimos spameando, nadie podrá
     targetearnos.
+
+  Si había burbuja anti-warpeo es poco probable superarla, pero creo que nada
+  impide que salgamos de ella cloakeados con la suficiente paciencia y los
+  nervios de acero para atravesarla al 10% de la velocidad máxima que tiene
+  nuestra nave.
 
 - La nave puede moverse con el cloak puesto (sin warp), aunque sufre una
   penalización en la velocidad, por lo que se mueve al 10% de su máximo. Aún
@@ -147,4 +159,4 @@ Small Gravity Capacitor Upgrade I
   warp.
 
 - Se puede recentrar el sistema en el mapa manteniendo el botón derecho del
-  mouse presionado.
+  mouse presionado y moviendo el puntero.

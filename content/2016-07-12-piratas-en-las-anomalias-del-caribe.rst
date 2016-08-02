@@ -11,16 +11,15 @@ Cada una de estas naves de ilegales posee una recompensa. Si logramos
 destruirlas entonces cobramos el importe total menos el impuesto a las ganancias
 que nos descuenta la corporación (el 4% en Area-52).
 
-Si vamos en flota a hacerlas chatarra, recibimos el proporcional de la
-recompensa, que se distribuye en partes iguales entre los pilotos de la misma
-flota presentes en las cercanías (¿y si hay pilotos de distintas flotas en la
-misma anomalía?), aún cuando no todos le hayan infligido algún daño. El monto de
-la recompensa es proporcional a su tamaño y a la dificultad de destruirlas, y
-figura en la ventana de información de target (donde están los íconos de
+Si van varios pilotos en flota a hacerlas chatarra, recibirán el proporcional de
+la recompensa, que se distribuye en partes iguales mientras los pilotos estén
+presentes en las cercanías, aún cuando no todos le hayan infligido daño. El
+monto de la recompensa es proporcional a la dificultad de destruirlas y puede
+verse en la ventana con la información de target (donde están los íconos de
 alinear, warpear, dockear, targetear, etc).
 
 Los piratas ("ratas" de aquí en adelante) aparecen espontaneamente en los
-cinturones de asteroides, algo de lo que pueden dar cuenta los mineros, que
+cinturones de asteroides, algo de lo que pueden dar cuenta los mineros que
 sufren sus ataques. Sin embargo, encontrarlos allí es incierto, no se sabe en
 qué momento aparecerán. Lo más común es visitar anomalías que aparecen en el
 Probe Scanner marcadas como Combat Anomalies. Allí siempre hay ratas. Y donde
@@ -99,3 +98,4 @@ entrenamiento bastante orientado al rateo (y si no sufro interrupciones por la
 visita de enemigos), logro sacar unos 25 millones de isk por hora. Pilotos más
 antiguos dan cifras tres veces mayores con esta misma actividad.
 
+Seguiremos con más información en próximos posteos.
