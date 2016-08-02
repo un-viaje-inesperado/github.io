@@ -1,5 +1,217 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/tutorial.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 14 Jul 2016 10:00:00 -0300</lastBuildDate><item><title>Más alla del dosmil</title><link>http://un-viaje-inesperado.github.io/mas-alla-del-dosmil.html</link><description>&lt;p&gt;Nadie que haya sido fanático de &lt;em&gt;Una ventana hacia el futuro&lt;/em&gt; (Beyond 2000,
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/tutorial.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 01 Aug 2016 10:00:00 -0300</lastBuildDate><item><title>Cómo ratear con la Vexor Navy Issue</title><link>http://un-viaje-inesperado.github.io/como-ratear-con-la-vexor-navy-issue.html</link><description>&lt;p&gt;En este artículo comento los puntos que me parecen importantes para ratear,
+mucho de lo cual aprendí de mis compañeros de corp. También incluyo cosas que
+encontré por la web y otras que descubrí por mi mismo.&lt;/p&gt;
+&lt;p&gt;La nave recomendable para empezar a ratear en soledad es la &lt;a class="reference external" href="http://wiki.eveuniversity.org/Vexor_Navy_Issue"&gt;Vexor Navy Issue&lt;/a&gt;
+(&lt;strong&gt;VNI&lt;/strong&gt;), que vale unos 65m de isk (más unos 30 o 40m para sus módulos).
+También se puede ratear con la &lt;a class="reference external" href="http://wiki.eveuniversity.org/Vexor"&gt;Vexor&lt;/a&gt; común, pero un piloto novato no tiene
+suficientes skills para que la experiencia sea agradable y redituable. La VNI no
+sólo tiene un low slot más, sino que la diferencia más importante es su ancho de
+banda de 125 Mbit/sec que permite sacar 5 drones pesados simultaneamente (cada
+uno ocupa 25 Mbit/sec), mientras que la Vexor sólo cuenta con 75 Mbit/sec que
+permiten sólo 3 berserkers en el espacio en simultaneo (o un grupo con 2
+pesados, 2 medianos y 1 liviano).&lt;/p&gt;
+&lt;div class="section" id="secuencia-de-ataque"&gt;
+&lt;h2&gt;Secuencia de ataque&lt;/h2&gt;
+&lt;p&gt;Una vez elegida la anomalía (en la web encontré que las mejores en términos de
+isk/hora son las forsaken hub, ya que tienen pocas fragatas y muchas
+battleships, y resultan más relajadas que las havens que tienen fragatas en casi
+todas sus oleadas) la secuencia es la siguiente:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;warpear a 20 km.&lt;/li&gt;
+&lt;li&gt;orbitar a unos 15 km de algún elemento que esté cercano al centro de la
+anomalía.&lt;/li&gt;
+&lt;li&gt;encender el afterburner (AB), no olvidarlo porque es vital para tanquear a
+velocidad (es decir esquivando el daño).&lt;/li&gt;
+&lt;li&gt;encender el escudo activo si está disponible (depende de los módulos
+instalados).&lt;/li&gt;
+&lt;li&gt;sacar los berserkers (que atacarán inmediatamente después de que nuestra nave
+tenga el &lt;em&gt;aggro&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;targetear las naves pequeñas y atacarlas manualmente.&lt;/li&gt;
+&lt;li&gt;dejar a los drones atacar a las naves grandes en el orden que les plazca.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;En algún momento, mis drones sufrían el ataque de las ratas y debía hacerlos
+retornar porque pierden escudo y armadura muy rápido. Para evitar este problema
+nuestra nave tiene que empezar a recibir daño (tener el &lt;em&gt;aggro&lt;/em&gt;) antes de que
+ataquen los drones, por eso demoro el momento de sacar los drones hasta el punto
+5 y no los envío manualmente a atacar (salvo si después de empezar a recibir
+daño en la nave éstos se mantienen inertes). De esta manera los drones hacen su
+trabajo tranquilos, sin ser atacados ni una sola vez.&lt;/p&gt;
+&lt;p&gt;Al sacar los berserkers lo que he visto es que atacan inicialmente la nave más
+pequeña que encuentran, sea una fragata, un cruiser, un battlecruiser, lo cual
+está muy bien. Pero el segundo blanco lo eligen incorrectamente y se van directo
+a atacar una battleship. Por eso el punto 5 es sacar los drones (que deben estar
+en modo agresivo y con focus fire) sin hacer nada más, sólo esperar a que
+ataquen por sí solos, ya que atacan la nave correcta aún sin que tengamos un
+target lock (un objetivo fijado). Mientras los drones hacen trizas la primera
+nave tenemos tiempo de fijar nuestros objetivos primarios, y al hacerlo
+descubriremos cuál nave están atacando. Continuamos con el punto 6 enviando
+manualmente a nuestros pequeños a atacar las naves restantes, hasta que sólo
+quedan battleships. Recién ahí dejamos a los drones decidir por sí solos y nos
+dedicamos a ver Netflix. ;)&lt;/p&gt;
+&lt;p&gt;A pesar de que en el &lt;a class="reference external" href="http://un-viaje-inesperado.github.io/drones.html"&gt;artículo sobre drones&lt;/a&gt; escribí que éstos se eligen de
+acuerdo a la envergadura de las naves enemigas (fragatas, battleships, etc), en
+las anomalías sólo uso berserkers incluso para deshacerme de las fragatas. Si
+tuviese que llamarlos de vuelta cada vez que aparece una nueva oleada, esperar a
+que lentamente retornen (sobre todo si están lejos), lanzar los livianos y
+finalmente hacer el proceso inverso, todo esto llevaría una eternidad, con lo
+cual se pierde la ventaja de usar warriors para atacar las fragatas. Además, los
+berserkers son los drones pesados más rápidos de todos los raciales, y tienen
+una eficiencia más que aceptable para destruir fragatas y deshacernos de sus
+warp scramblers y target painters.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fiteo"&gt;
+&lt;h2&gt;Fiteo&lt;/h2&gt;
+&lt;p&gt;Una configuración para tener como objetivo para ratear es:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+[Vexor Navy Issue, T2]
+
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+Large Shield Extender II
+Large Shield Extender II
+100MN Monopropellant Enduring Afterburner
+Adaptive Invulnerability Field II
+
+Drone Link Augmentor II
+[Empty High slot]
+[Empty High slot]
+[Empty High slot]
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+
+Berserker II x5
+&lt;/pre&gt;
+&lt;p&gt;Por supuesto que un piloto nuevo tardará en poder equiparse con todos estos
+módulos T2, así que comenzará con varios (o todos) T1. Por otra parte, hay que
+tener en cuenta que si bien es recomendable llegar a una nave estable (aquella
+en la que todos los módulos pueden permanecer prendidos todo el tiempo) igual se
+puede ratear pulsando algunos módulos activos, es decir prendiéndolos sólo por
+algunos ciclos. Por ejemplo esto se puede hacer con el &lt;em&gt;Adaptive Invulnerability
+Field&lt;/em&gt;, de modo que esté encendido sólo durante el tiempo en que estamos
+recibiendo más daño (generalmente cuando están presentes las fragatas enemigas
+que nos enlentecen o aplican el target painter).&lt;/p&gt;
+&lt;p&gt;Los berserker pueden ser los T1, pero hay disponible una variante más poderosa y
+no tan cara que se pueden usar desde el principio: son los &lt;em&gt;Integrated
+Berserker&lt;/em&gt; que cuestan unos 500k. Y si disponen de suficiente isk para arriesgar
+(porque a veces los drones se pierden al huir rápidamente) pueden tratar de
+conseguirse los &lt;em&gt;Republic Fleet Berserker&lt;/em&gt; que son casi tan buenos como los
+Berserker II, a unos 3 o 4 millones cada uno.&lt;/p&gt;
+&lt;p&gt;Un fiteo más experimental que busca optimizar el dps (en detrimento del escudo y
+que requiere buenas skills para no quedarnos sin capacitor) es:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+[Vexor Navy Issue, Max VNI]
+
+Capacitor Power Relay II
+Capacitor Power Relay II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+Large Shield Extender II
+Large Shield Extender II
+100MN Monopropellant Enduring Afterburner
+Omnidirectional Tracking Link II, Optimal Range Script
+
+Drone Link Augmentor II
+[Empty High slot]
+[Empty High slot]
+[Empty High slot]
+
+Medium Drone Speed Augmentor II
+Medium Core Defense Field Purger I
+Medium Core Defense Field Purger I
+
+
+Berserker II x5
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="skills"&gt;
+&lt;h2&gt;Skills&lt;/h2&gt;
+&lt;p&gt;Un piloto muy nuevo tendrá que decidir qué skills subir primero, porque todas
+tienen mucha importancia. Al principio es mejor subir varias a lvl 3 y 4 (lo
+cual no ocupa tanto tiempo) en vez de concentrarse en subir cada una de ellas
+al 5. Son muy importantes las siguientes para el dps: &lt;em&gt;Gallente Cruiser&lt;/em&gt; (por el
+bonus de la VNI) y &lt;em&gt;Drone Interfacing&lt;/em&gt;. Además, creo que conviene subir
+directamente la skill de drones pesados (&lt;em&gt;Heavy Drone Operation&lt;/em&gt;) antes de subir
+las de drones livianos y medianos, ya que sólo estarán usando Berserkers.&lt;/p&gt;
+&lt;p&gt;Si sufren mucho del daño de las ratas del Angel Cartel será bueno subirse las
+skills que disminuyan el daño explosivo y cinético.&lt;/p&gt;
+&lt;p&gt;Cuando se animen a experimentar y hayan avanzado con el entrenamiento (yo creo
+que con un mes enfocados en esto es más que suficiente) pueden jugar con el
+equilibrio entre dps y tanqueo / capacitor. Por ejemplo, sustituyan en los lows
+un &lt;em&gt;Capacitor Power Relay&lt;/em&gt; por un &lt;em&gt;Drone Damage Amplifier&lt;/em&gt;. Los fiteos avanzados
+siempre tienen 4 de estos últimos, que son los únicos módulos que afectan el dps
+de los drones (el dps efectivo en realidad también estará modulado por skills
+que afecten la velocidad, tracking y rango de los drones). O coloquen un módulo
+para mejorar el rango o el tracking de sus Berserkers (&lt;em&gt;Omnidirectional Tracking
+Link&lt;/em&gt;) a expensas de un &lt;em&gt;Shield Extender&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="secuencia-de-huida"&gt;
+&lt;h2&gt;Secuencia de huida&lt;/h2&gt;
+&lt;p&gt;Cuando tengo que huir porque apareció un neutral en el sistema, la secuencia que
+utilizo es la siguiente:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;terminar de matar las fragatas, puesto que son las únicas que impiden warpear,
+lo cual es una condena a muerte.&lt;/li&gt;
+&lt;li&gt;llamar los drones.&lt;/li&gt;
+&lt;li&gt;apagar el afterburner (este paso es el que me resulta más conflictivo y está
+sometido a cambios futuros)&lt;/li&gt;
+&lt;li&gt;alinear a la POS (mejor) o a la estación/citadel (peor, porque pueden haber
+puesto una burbuja muy rápidamente).&lt;/li&gt;
+&lt;li&gt;esperar los drones, escanear con el escaner direccional (dscan) buscando naves
+enemigas.&lt;/li&gt;
+&lt;li&gt;si aparecen naves enemigas en el dscan, warpear aunque los drones no hayan
+llegado. Más vale perder 20 millones en 5 Republic Fleet Berserker que la nave
+completa con drones incluidos. Tema pendiente: cómo setear el dscan.&lt;/li&gt;
+&lt;li&gt;si no aparecen naves enemigas, esperar los drones y warpear.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Justo cuando aparecen los neutrales uno se da cuenta de la importancia de las
+skills y los módulos de velocidad de los drones (Drone Navigation,
+Omnidirectional Tracking, Drone Navigation Computer). Por este motivo, cuanto
+menor sea el radio de la órbita, menos tardarán los drones en volver, así
+disminuye el tiempo de viaje desde y hacia la nave.&lt;/p&gt;
+&lt;p&gt;Respecto del AB (el tercer paso de la lista), quizás debería apagarlo sólo si la
+nave se encuentra alejándose de los drones, pero a la vez me da la impresión de
+que la nave tarda menos en iniciar el warp si se parte de apagar el afterburner.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="isk-hora"&gt;
+&lt;h2&gt;Isk/hora&lt;/h2&gt;
+&lt;p&gt;Una anomalía como la Forsaken Hub da como recompensa total unos 25 a 27m de isk.
+El tiempo que se tarda en limpiarla depende mucho de las skills del piloto (y si
+tuvo que interrumpir la tarea por algún motivo). Yo me puse contento cuando
+llegué a obtener 8m por tick (es decir cada 20 minutos, y tardando una hora
+aproximadamente para completarla). Creo que no llegaba a los 380 dps.
+Actualmente, que aún no maximicé las skills de drones todo lo posible y hago
+unos 470 dps, estoy sacando unos 10-13m por tick. Con skills al máximo la VNI
+llega a 648 dps y unos 18-20m por tick. Aunque estos números vienen del
+simulador &lt;a class="reference external" href="https://github.com/pyfa-org/Pyfa"&gt;pyfa&lt;/a&gt; y no los verifiqué demasiado, sirven como noción para saber
+que tan lejos están de la cumbre del poder de destrucción.&lt;/p&gt;
+&lt;p&gt;Tengan en cuenta que el aumento de dps no es lineal, es decir que no necesitan
+duplicar el dps para hacer la anomalía en la mitad del tiempo. Esto es así
+porque una parte del dps se neutraliza por la capacidad de las ratas de
+restablecer su escudo o armadura. Entonces, si las ratas se curan a 100 unidades
+por segundo y les infligimos 100 unidades de daño, nunca las vencemos. Pero si
+les infligimos 120 dps, tardaremos la mitad que asestándoles 110 dps. No se qué
+tan claro es esto, pero por favor, no se desanimen. Entrenando las habilidades
+correctas estarán ganando isk en un corto tiempo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="progresion"&gt;
+&lt;h2&gt;Progresión&lt;/h2&gt;
+&lt;p&gt;La nave que aparece en el horizonte después de tocar el techo del dps con
+la VNI es la Ishtar (y con skills distintos la Gila y la Rattlesnake). Pero por
+el momento, hay mucho isk por farmear con la querida Vexor Navy Issue.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Mon, 01 Aug 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-08-01:como-ratear-con-la-vexor-navy-issue.html</guid><category>drones</category><category>VNI</category></item><item><title>Más alla del dosmil</title><link>http://un-viaje-inesperado.github.io/mas-alla-del-dosmil.html</link><description>&lt;p&gt;Nadie que haya sido fanático de &lt;em&gt;Una ventana hacia el futuro&lt;/em&gt; (Beyond 2000,
 transmitido por un canal de Chile que veíamos por cable en la Argentina de los
 '90) puede dar vueltas por los sistemas de New Eden sin dedicarse a la
 exploración, que consiste en identificar sitios con tesoros ocultos.&lt;/p&gt;
@@ -17,74 +229,96 @@ sistema.&lt;/p&gt;
 &lt;p&gt;Me voy a saltear la descripción detallada porque hay muchos sitios donde leer el
 protocolo de exploración. Sólo me refiero a algunos elementos que no me
 resultaban claros cuando empecé:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Se puede explorar en null-sec con fragatas T1. Las cuatro fragatas funcionan,
-aunque predominan los que recomiendan la Heron (Caldari) por sus 5 mid-slots y
-en segundo lugar la Imicus (Gallente, tiene 4 mid-slot), ya que en los
-mid-slots se ubican módulos importantes para exploración. La desventaja de la
-Imicus contra la Heron desaparece al comparar las fragatas T2 de Caldari y
-Gallente: tanto la Buzzard como la Helios poseen 5 mid-slots. A continuación
-algunos fiteos estándar:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[Heron, T1 Explo Heron]&lt;/p&gt;
-&lt;p&gt;Nanofiber Internal Structure I
-Nanofiber Internal Structure I&lt;/p&gt;
-&lt;p&gt;5MN Quad LiF Restrained Microwarpdrive
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Se puede explorar en null-sec con fragatas T1. Las cuatro fragatas funcionan,
+aunque predominan los que recomiendan la Heron (Caldari) porque provee la
+mayor cantidad de mid-slots, donde se ubican módulos imprescindibles o
+importantes para exploración. La Heron posee 5 y le sigue la Imicus (Gallente)
+con 4. La desventaja de la Imicus contra la Heron desaparece al comparar las
+fragatas T2 de Caldari y Gallente: tanto la Buzzard como la Helios poseen 5
+mid-slots (la diferencia está en la distribución de high/lows: 3/2 para la
+Heron y 2/3 para la Helios).&lt;/p&gt;
+&lt;p&gt;Esta es una configuración estándar para la fragata Caldari:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+[Heron, T1 Explo Heron]
+
+Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I
+
+5MN Quad LiF Restrained Microwarpdrive
 Relic Analyzer I
 Data Analyzer I
 Scan Rangefinding Array I
-Scan Acquisition Array I&lt;/p&gt;
-&lt;p&gt;Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-Salvager I&lt;/p&gt;
-&lt;p&gt;Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-[Empty Rig slot]&lt;/p&gt;
-&lt;p&gt;[Imicus, T1 Explo Imicus]&lt;/p&gt;
-&lt;p&gt;Nanofiber Internal Structure I
+Scan Acquisition Array I
+
 Nanofiber Internal Structure I
-Nanofiber Internal Structure I&lt;/p&gt;
-&lt;p&gt;5MN Y-T8 Compact Microwarpdrive
+Nanofiber Internal Structure I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+&lt;/pre&gt;
+&lt;p&gt;Esta es una configuración estándar para la fragata Gallente:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+[Imicus, T1 Explo Imicus]
+
+Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I
+
+5MN Y-T8 Compact Microwarpdrive
 Data Analyzer I
 Relic Analyzer I
-Cargo Scanner I&lt;/p&gt;
-&lt;p&gt;Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-Salvager I&lt;/p&gt;
-&lt;p&gt;Small Gravity Capacitor Upgrade I
+Cargo Scanner I
+
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+
 Small Gravity Capacitor Upgrade I
-[Empty Rig slot]&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Secuencia de mejoras: el &lt;em&gt;Core Probe Launcher I&lt;/em&gt; (30k) lleva 8 sondas: &lt;em&gt;Core
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Secuencia de mejoras: el &lt;em&gt;Core Probe Launcher I&lt;/em&gt; (30k) lleva 8 sondas: &lt;em&gt;Core
 Scanner Probe I&lt;/em&gt; (8x 7k = 56k). Al ganar confianza cambiarlas las sondas a 8x
 &lt;em&gt;Sisters Core Scanner Probes&lt;/em&gt; (8x 360k = 2.88m) y más adelante el lanzador a
 &lt;em&gt;Sisters Core Probe Launcher&lt;/em&gt; (29m). Luego se podría considerar el
-entrenamiento de Astrometrics V para poder usar &lt;em&gt;Core Probe Launcher II&lt;/em&gt; (2m).&lt;/li&gt;
-&lt;li&gt;No se puede estar clokeado (invisible) para lanzar ni para recuperar las
-probes. Tampoco se puede hackear un sitio. Sin embargo sí se puede escanear.&lt;/li&gt;
-&lt;li&gt;El escaneo se debe hacer cloakeado desde un lugar seguro (&lt;a class="reference external" href="http://wiki.eveuniversity.org/Safe_Spot"&gt;safe spot&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;Si estamos cloakeados en un sitio y aparece un elemento a menos de 2000m o
+entrenamiento de Astrometrics V para poder usar &lt;em&gt;Core Probe Launcher II&lt;/em&gt; (2m).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;No se puede estar clokeado (invisible) para lanzar probes ni para hackear un
+sitio. Sin embargo sí se puede escanear para determinar qué clase de Cosmic
+Signature hay en el sistema y también se pueden recuperar las probes durante
+la invisibilidad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;El escaneo conviene hacerlo cloakeado desde un lugar seguro (&lt;a class="reference external" href="http://wiki.eveuniversity.org/Safe_Spot"&gt;safe spot&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Si estamos cloakeados en un sitio y aparece un elemento a menos de 2000m o
 2500m (por ejemplo otra nave que acudió al mismo relic-site en busca de
-tesoros o de fragatas frágiles) perderemos la invisibilidad.&lt;/li&gt;
-&lt;li&gt;Al menos en un sitio de datos (el primero que descubro) aparecieron
-NPCs -creo que eran drones- que me mataron. Estoy seguro de que no fueron
-otros jugadores porque estuve todo el tiempo en soledad en el sistema. La
-fragata resiste muy poco daño, así que hay que estar atentos al local, al
-overview y al escaner direccional, siempre listos para huir.&lt;/li&gt;
-&lt;li&gt;Como los exploradores viajan entre sistemas para buscar anomalías y luego
+tesoros o de fragatas frágiles) perderemos la invisibilidad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;No hay que preocuparse por ratas en los sitios de exploración. O mejor sí
+preocuparse un poco. En el primer sitio de datos al que fui aparecieron NPCs
+(creo que eran drones) mientras trataba de completar un hackeo, y me mataron
+en 3 segundos. Debe haber sido un Ghost Site. La pobre fragata resiste muy
+poco daño, hay que estar atentos al local, al overview y al escaner
+direccional, siempre listos para huir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Como los exploradores viajan entre sistemas para buscar anomalías y luego
 tienen que regresar a casa, se enfrentan a gate-camps y burbujas. Hay que
-aprender el truco de MWD y cloak, o usar fragatas covops para poder evadirlas
-sanos y salvos. El tiempo en que se puede activar el MWD después del cloak
-puede llegar a varios segundos (creo que son 5). En este tiempo se pueden
-activar módulos que no sean agresivos (no sólo el MWD). No es necesario
-desactivar el MWD luego de su primer ciclo ya que se desactiva solo. La idea
-es que estemos cerca de la velocidad de inicio de warp al descloakearnos, con
-este propósito se usa el MWD, para neutralizar la penalización de velocidad
-del cloak. Básicamente el truco consiste en:&lt;ul&gt;
-&lt;li&gt;Llegar saltando desde un sistema y descubrir una flota campeando la gate
-con una burbuja anti-warpeo.&lt;/li&gt;
-&lt;li&gt;Maldecir a todos los dioses de New Heaven y buscar tranquilidad,
-tendremos un minuto de inmunidad siendo invisibles.&lt;/li&gt;
+aprender el truco del microwarpdrive (MWD) y cloak, o usar fragatas covops
+para poder evadirlas sanos y salvos. El tiempo en que se puede activar el MWD
+después del cloak puede llegar a varios segundos (creo que son 5). En este
+tiempo se pueden activar módulos que no sean agresivos (no sólo el MWD). No es
+necesario desactivar el MWD luego de su primer ciclo ya que se desactiva solo.
+La idea es que al inactivar el cloak estemos cerca de la velocidad de inicio
+de warp. Con este propósito se usa el MWD, para neutralizar la penalización de
+velocidad del cloak. Básicamente el truco consiste en:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Llegar saltando desde un sistema y descubrir una flota campeando la gate.&lt;/li&gt;
+&lt;li&gt;Maldecir a todos los dioses de New Heaven y buscar tranquilidad, tendremos
+un minuto de inmunidad siendo invisibles.&lt;/li&gt;
 &lt;li&gt;Elegir un destino.&lt;/li&gt;
 &lt;li&gt;Alinear en esa dirección (con lo cual perdemos la invisibilidad) e
 inmediatamente activar el cloak (conviene ubicarlo en F1).&lt;/li&gt;
@@ -95,16 +329,22 @@ objetivo).&lt;/li&gt;
 tendrá prevalencia el warpeo que estuvimos spameando, nadie podrá
 targetearnos.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Si había burbuja anti-warpeo es poco probable superarla, pero creo que nada
+impide que salgamos de ella cloakeados con la suficiente paciencia y los
+nervios de acero para atravesarla al 10% de la velocidad máxima que tiene
+nuestra nave.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;La nave puede moverse con el cloak puesto (sin warp), aunque sufre una
+&lt;li&gt;&lt;p class="first"&gt;La nave puede moverse con el cloak puesto (sin warp), aunque sufre una
 penalización en la velocidad, por lo que se mueve al 10% de su máximo. Aún
 así, creo que conviene tirarse el cloak manteniendo el movimiento, ya que si
 por algún motivo nos vieron al colocarnos la manta de invisibilidad, van a
 tener menos chances de dar con nosotros si nos alejamos del lugar, aunque sea
 despacio (calculo que igual podrían encontrarnos, pero tratamos de reducir
 chances). Además, vale el truco de usar el primer ciclo del MWD inmediatamente
-después de activar el cloak). Hay que apuntar en dirección a un lugar vacío.&lt;/li&gt;
-&lt;li&gt;La secuencia puede ser:&lt;ul&gt;
+después de activar el cloak). Hay que apuntar en dirección a un lugar vacío.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;La secuencia puede ser:&lt;/p&gt;
+&lt;ul class="simple"&gt;
 &lt;li&gt;Warp a 100km de algún planeta o cinturón de asteroides.&lt;/li&gt;
 &lt;li&gt;Apuntar en una dirección vacía.&lt;/li&gt;
 &lt;li&gt;Liberar las sondas&lt;/li&gt;
@@ -112,27 +352,29 @@ después de activar el cloak). Hay que apuntar en dirección a un lugar vacío.&
 &lt;li&gt;Activar el MWD.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Si estamos esperando que termine el período refractario del cloak podemos
+&lt;li&gt;&lt;p class="first"&gt;Si estamos esperando que termine el período refractario del cloak podemos
 warpear a distintos lugares para que el tiempo se consuma. No importa dónde
-liberamos las sondas.&lt;/li&gt;
-&lt;li&gt;Desde una fragata covops se puede activar el cloak incluso en el medio de un
-warp.&lt;/li&gt;
-&lt;li&gt;Se puede recentrar el sistema en el mapa manteniendo el botón derecho del
-mouse presionado.&lt;/li&gt;
+liberamos las sondas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Desde una fragata covops se puede activar el cloak incluso en el medio de un
+warp.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Se puede recentrar el sistema en el mapa manteniendo el botón derecho del
+mouse presionado y moviendo el puntero.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Thu, 14 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-14:mas-alla-del-dosmil.html</guid><category>exploración</category><category>guias</category></item><item><title>Piratas en las anomalías del Caribe</title><link>http://un-viaje-inesperado.github.io/piratas-en-las-anomalias-del-caribe.html</link><description>&lt;p&gt;Cazar piratas es una fuente de ingreso de divisas para los pilotos en New Eden.
 Cada una de estas naves de ilegales posee una recompensa. Si logramos
 destruirlas entonces cobramos el importe total menos el impuesto a las ganancias
 que nos descuenta la corporación (el 4% en Area-52).&lt;/p&gt;
-&lt;p&gt;Si vamos en flota a hacerlas chatarra, recibimos el proporcional de la
-recompensa, que se distribuye en partes iguales entre los pilotos de la misma
-flota presentes en las cercanías (¿y si hay pilotos de distintas flotas en la
-misma anomalía?), aún cuando no todos le hayan infligido algún daño. El monto de
-la recompensa es proporcional a su tamaño y a la dificultad de destruirlas, y
-figura en la ventana de información de target (donde están los íconos de
+&lt;p&gt;Si van varios pilotos en flota a hacerlas chatarra, recibirán el proporcional de
+la recompensa, que se distribuye en partes iguales mientras los pilotos estén
+presentes en las cercanías, aún cuando no todos le hayan infligido daño. El
+monto de la recompensa es proporcional a la dificultad de destruirlas y puede
+verse en la ventana con la información de target (donde están los íconos de
 alinear, warpear, dockear, targetear, etc).&lt;/p&gt;
 &lt;p&gt;Los piratas (&amp;quot;ratas&amp;quot; de aquí en adelante) aparecen espontaneamente en los
-cinturones de asteroides, algo de lo que pueden dar cuenta los mineros, que
+cinturones de asteroides, algo de lo que pueden dar cuenta los mineros que
 sufren sus ataques. Sin embargo, encontrarlos allí es incierto, no se sabe en
 qué momento aparecerán. Lo más común es visitar anomalías que aparecen en el
 Probe Scanner marcadas como Combat Anomalies. Allí siempre hay ratas. Y donde
@@ -205,6 +447,7 @@ anomalías.&lt;/p&gt;
 entrenamiento bastante orientado al rateo (y si no sufro interrupciones por la
 visita de enemigos), logro sacar unos 25 millones de isk por hora. Pilotos más
 antiguos dan cifras tres veces mayores con esta misma actividad.&lt;/p&gt;
+&lt;p&gt;Seguiremos con más información en próximos posteos.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Tue, 12 Jul 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-07-12:piratas-en-las-anomalias-del-caribe.html</guid><category>guias</category></item><item><title>Drones</title><link>http://un-viaje-inesperado.github.io/drones.html</link><description>&lt;p&gt;Gran parte de este artículo está extraido de &lt;a class="reference external" href="http://wiki.eveuniversity.org/Drones_101"&gt;Eve University&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Los drones son una extensa familia de ayudantes que los pilotos poseen para
 realizar distintas tareas, desde el combate hasta la minería. En estas lineas
@@ -321,8 +564,8 @@ para poder relanzarlo (debe estar a menos de 2500m).&lt;/li&gt;
 &lt;h2&gt;Skills&lt;/h2&gt;
 &lt;p&gt;Las skills más importantes para drones son:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;em&gt;Drone interfacing&lt;/em&gt;: buff de 10% (por nivel) al daño.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Drone navigation&lt;/em&gt;: los hace más rápidos al usar su MWD. Permite que lleguen
+&lt;li&gt;&lt;em&gt;Drone Interfacing&lt;/em&gt;: buff de 10% (por nivel) al daño.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drone Navigation&lt;/em&gt;: los hace más rápidos al usar su MWD. Permite que lleguen
 antes a rango de su objetivo y también es útil para recuperarlos en caso de
 urgencia para huir.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Drone Sharpshooting&lt;/em&gt;: incrementan el rango al cual los drones pueden disparar
@@ -333,8 +576,8 @@ otorga un mayor rango de control sobre todos los drones (+5km/nivel).&lt;/li&gt;
 control sobre todos los drones (+3km/nivel).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Light/Medium/Heavy/Sentry Drone Operations/Interfacing&lt;/em&gt;: incrementa el daño
 de su tipo de drone.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Drone Specialization&lt;/em&gt;: desbloquea los drones T2 e incrementa el daño de los
-mismos.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(racial) Drone Specialization&lt;/em&gt;: desbloquea los drones raciales T2 e
+incrementa el daño de los mismos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Además hay que tener en cuenta los bonus de las naves. Por ejemplo la Vexor Navy
 Issue tiene bonus para drones que se incrementan según el nivel de la skill
@@ -352,8 +595,9 @@ mejora el tiempo de /engage/ de los drones más pesados, lo cual podría
 suplirse con un Stasis Webifier para usar sobre el objetivo).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Omnidirectional Tracking Link&lt;/em&gt;: mid-slot, incrementa la velocidad de tracking
 y su rango óptimo (excelente para sentry, también puede usarse para mejorar el
-DPS de drones más grandes sobre naves más pequeñas y rápidas (medianos sobre
-fragatas, etc). Se cargan con /tracking scripts/.&lt;/li&gt;
+DPS de drones grandes y lentos sobre naves pequeñas y rápidas. Se pueden
+cargar con /tracking scripts/ que mejoran un aspecto (range, tracking) a
+expensas del otro.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Omnidirectional Tracking Enhancer&lt;/em&gt;: low-slot, semejante al anterior, con
 leves diferencias de estadísticas. No pueden usar /tracking scripts/, así que
 son menos efectivos pero se usan cuando no quedan mid-slots libres.&lt;/li&gt;
@@ -438,6 +682,7 @@ Gistior, Gistum).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="tacticas"&gt;
 &lt;h2&gt;Tácticas&lt;/h2&gt;
+&lt;p&gt;(ver también el artículo sobre ratear con la VNI)&lt;/p&gt;
 &lt;p&gt;Estas sugerencias vienen de los consejos que recibí en la corporación y de mi
 experiencia con la Vexor Navy Issue, y se aplican si usamos drones móviles en
 vez de sentrys.&lt;/p&gt;
