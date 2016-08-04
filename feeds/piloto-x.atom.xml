@@ -1,5 +1,161 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Un Viaje Inesperado</title><link href="http://un-viaje-inesperado.github.io/" rel="alternate"></link><link href="http://un-viaje-inesperado.github.io/feeds/piloto-x.atom.xml" rel="self"></link><id>http://un-viaje-inesperado.github.io/</id><updated>2016-08-01T10:00:00-03:00</updated><entry><title>Cómo ratear con la Vexor Navy Issue</title><link href="http://un-viaje-inesperado.github.io/como-ratear-con-la-vexor-navy-issue.html" rel="alternate"></link><updated>2016-08-01T10:00:00-03:00</updated><author><name>Piloto X</name></author><id>tag:un-viaje-inesperado.github.io,2016-08-01:como-ratear-con-la-vexor-navy-issue.html</id><summary type="html">&lt;p&gt;En este artículo comento los puntos que me parecen importantes para ratear,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Un Viaje Inesperado</title><link href="http://un-viaje-inesperado.github.io/" rel="alternate"></link><link href="http://un-viaje-inesperado.github.io/feeds/piloto-x.atom.xml" rel="self"></link><id>http://un-viaje-inesperado.github.io/</id><updated>2016-08-04T10:00:00-03:00</updated><entry><title>Actividades rentables</title><link href="http://un-viaje-inesperado.github.io/actividades-rentables.html" rel="alternate"></link><updated>2016-08-04T10:00:00-03:00</updated><author><name>Piloto X</name></author><id>tag:un-viaje-inesperado.github.io,2016-08-04:actividades-rentables.html</id><summary type="html">&lt;div class="section" id="skills-generales"&gt;
+&lt;h2&gt;Skills generales&lt;/h2&gt;
+&lt;p&gt;Estas son skills que sirven para distintas actividades relacionadas con
+industria y comercio.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Cybernetics: para poder usar implantes mejores.&lt;/li&gt;
+&lt;li&gt;Science&lt;ul&gt;
+&lt;li&gt;Laboratory Operation y Advanced Laboratory Operation: para operar trabajos
+en simultaneo. Tengo que verificar cuántos y qué tipo de trabajos.&lt;/li&gt;
+&lt;li&gt;Scientific networking 1.&lt;/li&gt;
+&lt;li&gt;Science 5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Production&lt;ul&gt;
+&lt;li&gt;Production Efficiency: 5.&lt;/li&gt;
+&lt;li&gt;Mass Production y Advanced Mass Production: para usar múltiples estaciones
+en simultaneo.&lt;/li&gt;
+&lt;li&gt;Supply Chain Management: para manejar la producción a más distancia.&lt;/li&gt;
+&lt;li&gt;Industry: para tardar menos tiempo en cada trabajo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Misiones&lt;ul&gt;
+&lt;li&gt;Social: para subir la reputación más rápido.&lt;/li&gt;
+&lt;li&gt;Negotiations 2 o 3&lt;/li&gt;
+&lt;li&gt;Connections 3&lt;/li&gt;
+&lt;li&gt;Faction Frigate 3&lt;/li&gt;
+&lt;li&gt;Destroyers 2&lt;/li&gt;
+&lt;li&gt;Targeting 1&lt;/li&gt;
+&lt;li&gt;Astrometrics 1&lt;/li&gt;
+&lt;li&gt;Industry 1&lt;/li&gt;
+&lt;li&gt;Hull upgrades 1&lt;/li&gt;
+&lt;li&gt;Afterburners 1&lt;/li&gt;
+&lt;li&gt;Faction specific weapon 2 (Caldari: Small Hybrid Turrets)&lt;ul&gt;
+&lt;li&gt;Rapid firing 2 (velocidad de disparo)&lt;/li&gt;
+&lt;li&gt;Controlled bursts 2 (uso del capacitor)&lt;/li&gt;
+&lt;li&gt;Sharpshooter 2 (incrementa el rango)&lt;/li&gt;
+&lt;li&gt;Motion prediction 2 (mejora el daño sobre blancos móviles)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hauling&lt;ul&gt;
+&lt;li&gt;Ratial industrial: 5 (para usar naves industriales T2)&lt;/li&gt;
+&lt;li&gt;Anchoring 1: para usar contenedores para incrementar el tamaño de la nave
+(¿?).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Refinado&lt;ul&gt;
+&lt;li&gt;Refining 5&lt;/li&gt;
+&lt;li&gt;refinery efficiency 4&lt;/li&gt;
+&lt;li&gt;Velspar/scordite/whatever processing 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Trading&lt;ul&gt;
+&lt;li&gt;Accounting 5&lt;/li&gt;
+&lt;li&gt;Broker relations 5&lt;/li&gt;
+&lt;li&gt;Contracting 3&lt;/li&gt;
+&lt;li&gt;Margin trading 4&lt;/li&gt;
+&lt;li&gt;Trade 4&lt;/li&gt;
+&lt;li&gt;Retail 5&lt;/li&gt;
+&lt;li&gt;Wholesale 4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="misiones"&gt;
+&lt;h2&gt;Misiones&lt;/h2&gt;
+&lt;p&gt;Hacer las misiones de los &lt;em&gt;career agents&lt;/em&gt; para la facción que posee la estación
+con la cual se comerciará (Jita = Caldari, y quizás para la facción aliada a los
+Caldari: Amarr). Para algunas misiones se necesitan skills, como Astrometrics
+(para la cadena de exploración). Usar implantes tan pronto sea posible (beta:
++2, basic: +3, ¿?: +4). Ver cuál nave conviene para las misiones (quizás
+destructores para las de nivel 1). En las misiones de exploración sacar 6
+documentos de cada container. Lootear uno, esperar a que haga &lt;em&gt;respawn&lt;/em&gt;, lootear
+de nuevo y repetir.&lt;/p&gt;
+&lt;p&gt;Las &lt;em&gt;small railguns&lt;/em&gt; cargadas con &lt;em&gt;iron&lt;/em&gt; destruye las fragatas desde mucha
+distancia reduciendo el tiempo requerido por las misiones.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="reputacion"&gt;
+&lt;h2&gt;Reputación&lt;/h2&gt;
+&lt;p&gt;Para vender productos se pagan &lt;em&gt;broker fees&lt;/em&gt; y &lt;em&gt;sales tax&lt;/em&gt;. Para colocar una
+orden de compra se pagan &lt;em&gt;broker fees&lt;/em&gt;. El &lt;em&gt;sales tax&lt;/em&gt; es 1.5% y decrece con
+Accounting. El &lt;em&gt;broker fee&lt;/em&gt; es 1% y decrece con Broker relations.&lt;/p&gt;
+&lt;p&gt;En el ejemplo de GreedyGoblin dice que si comprás un item por 90M y lo vendés
+por 100M pagás 675K+750K+750K = 2.175M, que es casi 22% de tu ganancia. A mi me
+da otra cosa porque entre broker fees y sales tax tengo 900K+1M+1.5M = 3.4M, que
+es casi un 35% de la ganancia (100M - 90M).&lt;/p&gt;
+&lt;p&gt;Los brokers fees se pueden reducir drásticamente mejorando la reputación con la
+facción de la estación donde se compra/vende. Para subirla hay que hacer las
+misiones &lt;em&gt;storyline&lt;/em&gt; que se obtienen tras hacer 16 misiones del mismo tipo, del
+mismo nivel, de la misma facción.&lt;/p&gt;
+&lt;p&gt;Un truco que se puede usar para subir la reputación es armar una flota con un
+personaje propio o ajeno capaz de hacer misiones L4, volar al punto de misión en
+una cápsula (que los piratas no atacan) y permanecer alli hasta que el otro
+personaje complete la misión.&lt;/p&gt;
+&lt;p&gt;Otra manera es hacer misiones L3 de distribución con una nave industrial. Para
+los Caldari GreedyGoblin recomienda el sistema Ono.&lt;/p&gt;
+&lt;p&gt;El número de misiones que vamos haciendo se puede saber usando el wallet y
+filtrando por &lt;em&gt;career agent rewards&lt;/em&gt;. Si estábamos haciendo misiones L3 de
+distribución y nos toca un &lt;em&gt;storyline&lt;/em&gt; de combate le podemos pagar a alguien
+para que nos acompañe.&lt;/p&gt;
+&lt;p&gt;Se busca obtener más de 8 de reputación con la corporación (antes de la skill
+Connections). En este punto la reputación con la facción será de alrededor de 6
+(lo cual provee una reducción de broker fees en 0.35%. Con un personaje que haga
+misiones de combate se puede subir mucho con las misiones &lt;em&gt;Cosmos&lt;/em&gt;. Con
+suficiente dinero se pueden comprar &lt;em&gt;pirate tags&lt;/em&gt; para completar las misiones
+&lt;em&gt;datacenter&lt;/em&gt;. También se puede hacer el arco épico de Sisters of EVE.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="hauling"&gt;
+&lt;h2&gt;Hauling&lt;/h2&gt;
+&lt;p&gt;El hauling regional consiste en comprar tritanium, pyerite y otros materiales
+desparramados en las regiones cercanas y a buen precio, para llevarlas al centro
+comercial. Se puede usar una industrial T2 (como un Badger II, que es una nave
+mediocre). Con más tiempo se puede aprender a pilotear una Orca, que es bastante
+grande y tiene muchas defensas o los grandes Freighters.&lt;/p&gt;
+&lt;p&gt;El regional hauling tiene el más alto retorno respecto de la inversión, los
+menores riesgos (salvo errores) pero el menor retorno en tiempo. Se pueden
+obtener unos 100-200M por hora. Es la tarea más recomendable para principiantes.
+Se puede mejorar el ISK/hour contratando servicios de courier, con contratos
+públicos o usando corps como Red Frog Freight o Push Industries. Se pierde
+dinero a cambio de tiempo, y en definitiva se gana.&lt;/p&gt;
+&lt;p&gt;Algunas regiones son muy cercanas a los hubs de otras regiones, por ejemplo Jita
+está a 2 saltos de Lonetrek, The Citadel y Sinq Laison, por lo que se pueden
+hacer viajes entre ellas. Sin embargo tales transportes están limitados por el
+espacio de la nave y su débil capacidad de tanquear. &amp;quot;If you carry more valuable
+cargo than N Tornado battlecruisers (71M), you can expect N/2 Tornados to attack
+you with 12000EHP oneshot. Get better tank, get cheaper cargo or forget the
+industrial&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Una alternativa son los items caros y pequeños (&lt;em&gt;shinies&lt;/em&gt;): implantes, skills,
+&lt;em&gt;pirate tags&lt;/em&gt;, módulos y otras cosas que entren una fragata (assault frigates,
+interceptors, covops). Sólo usar covops para ir a buscar estos items a sistemas
+en lowsec.&lt;/p&gt;
+&lt;p&gt;Se pueden aprovechar las naves grandes para exploatr el refinado de materiales.
+Se compran ores y se venden los minerales que se obtienen del mismo. El refinado
+se hace en la estación con mejor standing.&lt;/p&gt;
+&lt;p&gt;En el &lt;strong&gt;inter-hub hauling&lt;/strong&gt; se mueven items aprovechando las diferencias de
+precios entre Jita, Dodixie, Amarr, Hek y Rens. Se necesita más de un trader alt
+para esto, uno por cada hub que se quiera cubrir, por lo cual es más dificil
+para empezar. Esta es la actividad más rentable, de hasta 1B/hora. Sin embargo
+requiere mucha inversión y es la más riesgosa.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="comercio-dentro-de-una-estacion"&gt;
+&lt;h2&gt;Comercio dentro de una estación&lt;/h2&gt;
+&lt;p&gt;Es solo comprar y vender sin moverse de la estación, comprando barato y
+vendiendo más caro. Requiere isk para empezar y buenos skills (mínimo en 4).
+Puede ser aburrido, pero puede tener retornos más altos, hasta unos 500M por
+hora, aunque cada día no se obtenga más que 2 a 3% de ganancia sobre lo
+invertido (500M por día implicarían inversiones de 20B).&lt;/p&gt;
+&lt;p&gt;El riesgo es que no se venda lo que tenemos a la venta, o se demore mucho o que
+caigan sus precios.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="eleccion-de-items-para-comerciar"&gt;
+&lt;h2&gt;Elección de items para comerciar&lt;/h2&gt;
+&lt;p&gt;Comerciar con items que conozcas. Por ejemplo: si te dedicas a ratear y para eso
+volás con cierto tipo de naves, empezá con los módulos que frecuentemente usas.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="comercio"></category><category term="industria"></category><category term="misiones"></category><category term="isk"></category></entry><entry><title>Cómo ratear con la Vexor Navy Issue</title><link href="http://un-viaje-inesperado.github.io/como-ratear-con-la-vexor-navy-issue.html" rel="alternate"></link><updated>2016-08-01T10:00:00-03:00</updated><author><name>Piloto X</name></author><id>tag:un-viaje-inesperado.github.io,2016-08-01:como-ratear-con-la-vexor-navy-issue.html</id><summary type="html">&lt;p&gt;En este artículo comento los puntos que me parecen importantes para ratear,
 mucho de lo cual aprendí de mis compañeros de corp. También incluyo cosas que
 encontré por la web y otras que descubrí por mi mismo.&lt;/p&gt;
 &lt;p&gt;La nave recomendable para empezar a ratear en soledad es la &lt;a class="reference external" href="http://wiki.eveuniversity.org/Vexor_Navy_Issue"&gt;Vexor Navy Issue&lt;/a&gt;
