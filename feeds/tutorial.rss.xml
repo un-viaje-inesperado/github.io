@@ -1,65 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/tutorial.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Aug 2016 10:00:00 -0300</lastBuildDate><item><title>Actividades rentables</title><link>http://un-viaje-inesperado.github.io/actividades-rentables.html</link><description>&lt;div class="section" id="skills-generales"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/tutorial.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Aug 2016 10:00:00 -0300</lastBuildDate><item><title>Actividades rentables</title><link>http://un-viaje-inesperado.github.io/actividades-rentables.html</link><description>&lt;p&gt;Estas son anotaciones que aún no puse en práctica, así que no certifico que toda
+la información sea correcta. Gran parte es un resumen de &lt;a class="reference external" href="http://greedygoblin.blogspot.co.id/p/newbie-guide-for-riches-in-eve.html"&gt;Newbie guide for
+riches in EVE&lt;/a&gt; y de algún otro sitio que ya ni recuerdo.&lt;/p&gt;
+&lt;div class="section" id="skills-generales"&gt;
 &lt;h2&gt;Skills generales&lt;/h2&gt;
 &lt;p&gt;Estas son skills que sirven para distintas actividades relacionadas con
 industria y comercio.&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Cybernetics: para poder usar implantes mejores.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Cybernetics&lt;/em&gt;: para poder usar implantes mejores, y con ellos acelerar el tiempo
+de entrenamiento de skills.&lt;/li&gt;
 &lt;li&gt;Science&lt;ul&gt;
-&lt;li&gt;Laboratory Operation y Advanced Laboratory Operation: para operar trabajos
-en simultaneo. Tengo que verificar cuántos y qué tipo de trabajos.&lt;/li&gt;
-&lt;li&gt;Scientific networking 1.&lt;/li&gt;
-&lt;li&gt;Science 5.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Laboratory Operation&lt;/em&gt; y &lt;em&gt;Advanced Laboratory Operation&lt;/em&gt;: por cada nivel de
+cada una, se incrementa en 1 la cantidad de trabajos que se pueden realizar
+en simultaneo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scientific networking&lt;/em&gt;: para realizar operaciones de industria remotamente
+(sin estar en la misma estación donde se encuentran las blueprints).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Science&lt;/em&gt;: es un pre-requisito para otras skills. Por cada nivel otorga 5% de
+aumento de velocidad a la copia de blueprints.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Production&lt;ul&gt;
-&lt;li&gt;Production Efficiency: 5.&lt;/li&gt;
-&lt;li&gt;Mass Production y Advanced Mass Production: para usar múltiples estaciones
-en simultaneo.&lt;/li&gt;
-&lt;li&gt;Supply Chain Management: para manejar la producción a más distancia.&lt;/li&gt;
-&lt;li&gt;Industry: para tardar menos tiempo en cada trabajo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mass Production&lt;/em&gt; y &lt;em&gt;Advanced Mass Production&lt;/em&gt;: para usar múltiples
+estaciones en simultaneo (cada nivel: +1).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Supply Chain Management&lt;/em&gt;: para manejar la producción a distancia.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Industry&lt;/em&gt;: para tardar menos tiempo en cada trabajo.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Misiones&lt;ul&gt;
-&lt;li&gt;Social: para subir la reputación más rápido.&lt;/li&gt;
-&lt;li&gt;Negotiations 2 o 3&lt;/li&gt;
-&lt;li&gt;Connections 3&lt;/li&gt;
-&lt;li&gt;Faction Frigate 3&lt;/li&gt;
-&lt;li&gt;Destroyers 2&lt;/li&gt;
-&lt;li&gt;Targeting 1&lt;/li&gt;
-&lt;li&gt;Astrometrics 1&lt;/li&gt;
-&lt;li&gt;Industry 1&lt;/li&gt;
-&lt;li&gt;Hull upgrades 1&lt;/li&gt;
-&lt;li&gt;Afterburners 1&lt;/li&gt;
-&lt;li&gt;Faction specific weapon 2 (Caldari: Small Hybrid Turrets)&lt;ul&gt;
-&lt;li&gt;Rapid firing 2 (velocidad de disparo)&lt;/li&gt;
-&lt;li&gt;Controlled bursts 2 (uso del capacitor)&lt;/li&gt;
-&lt;li&gt;Sharpshooter 2 (incrementa el rango)&lt;/li&gt;
-&lt;li&gt;Motion prediction 2 (mejora el daño sobre blancos móviles)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Social&lt;/em&gt;: para subir la reputación más rápido. Es un 5% de bonus por nivel
+para el incremento de reputación con NPCs, corporaciones y facciones.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Negotiations&lt;/em&gt;: aumento del 5% sobre la recompensa de los agentes de misiones.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Connections&lt;/em&gt;: modificador del 4% a la reputación efectiva de corporaciones y
+facciones NPC amistosas. No se acumula con Diplomacy ni con Criminal
+Connections.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Hauling&lt;ul&gt;
-&lt;li&gt;Ratial industrial: 5 (para usar naves industriales T2)&lt;/li&gt;
-&lt;li&gt;Anchoring 1: para usar contenedores para incrementar el tamaño de la nave
-(¿?).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(Gallente/Amarr/Caldari/Minmatar) Industrial&lt;/em&gt;: se necesita en 5 para usar
+naves industriales T2.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Refinado&lt;ul&gt;
-&lt;li&gt;Refining 5&lt;/li&gt;
-&lt;li&gt;refinery efficiency 4&lt;/li&gt;
-&lt;li&gt;Velspar/scordite/whatever processing 2&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Reprocessing&lt;/em&gt;: otorga un 3% más (por nivel) al procesar ores y hielo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Reprocessing efficiency&lt;/em&gt;: otro 2% de bonus al reprocesado de ores y hielo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scrapmetal reprocessing&lt;/em&gt;: al reprocesar loot se obtiene un 2% más de
+minerales (por nivel).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Arkonor / Bistot / Crokite / ... Processing&lt;/em&gt;: un 2% de material extra al
+procesar la veta de cada mineral.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Trading&lt;ul&gt;
-&lt;li&gt;Accounting 5&lt;/li&gt;
-&lt;li&gt;Broker relations 5&lt;/li&gt;
-&lt;li&gt;Contracting 3&lt;/li&gt;
-&lt;li&gt;Margin trading 4&lt;/li&gt;
-&lt;li&gt;Trade 4&lt;/li&gt;
-&lt;li&gt;Retail 5&lt;/li&gt;
-&lt;li&gt;Wholesale 4&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Accounting&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Broker relations&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Contracting&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Margin trading&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Trade&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Retail&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Wholesale&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -69,13 +66,21 @@ en simultaneo.&lt;/li&gt;
 &lt;p&gt;Hacer las misiones de los &lt;em&gt;career agents&lt;/em&gt; para la facción que posee la estación
 con la cual se comerciará (Jita = Caldari, y quizás para la facción aliada a los
 Caldari: Amarr). Para algunas misiones se necesitan skills, como Astrometrics
-(para la cadena de exploración). Usar implantes tan pronto sea posible (beta:
-+2, basic: +3, ¿?: +4). Ver cuál nave conviene para las misiones (quizás
-destructores para las de nivel 1). En las misiones de exploración sacar 6
-documentos de cada container. Lootear uno, esperar a que haga &lt;em&gt;respawn&lt;/em&gt;, lootear
-de nuevo y repetir.&lt;/p&gt;
-&lt;p&gt;Las &lt;em&gt;small railguns&lt;/em&gt; cargadas con &lt;em&gt;iron&lt;/em&gt; destruye las fragatas desde mucha
-distancia reduciendo el tiempo requerido por las misiones.&lt;/p&gt;
+(para la cadena de exploración).&lt;/p&gt;
+&lt;p&gt;Usar implantes tan pronto sea posible. Esto está limitado por el entrenamiento
+de cybernetics y por la disponibilidad de ISK. Los implantes son: limited: +1,
+beta:+2, basic: +3, standard: +4, improved: +5.&lt;/p&gt;
+&lt;p&gt;Cada nivel de misiones tiene un límite en cuanto a la nave con la que se puede
+completar. Conviene usar la nave más grande que permita la misión. En general la
+recomendación es la siguiente:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Nivel 1: fragata o destructor&lt;/li&gt;
+&lt;li&gt;Nivel 2: crucero&lt;/li&gt;
+&lt;li&gt;Nivel 3: battlecruiser&lt;/li&gt;
+&lt;li&gt;Nivel 4: battleship&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En las misiones de exploración sacar 6 documentos de cada container. Lootear
+uno, esperar a que haga &lt;em&gt;respawn&lt;/em&gt;, lootear de nuevo y repetir.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="reputacion"&gt;
 &lt;h2&gt;Reputación&lt;/h2&gt;
@@ -131,7 +136,7 @@ industrial&amp;quot;.&lt;/p&gt;
 &lt;em&gt;pirate tags&lt;/em&gt;, módulos y otras cosas que entren una fragata (assault frigates,
 interceptors, covops). Sólo usar covops para ir a buscar estos items a sistemas
 en lowsec.&lt;/p&gt;
-&lt;p&gt;Se pueden aprovechar las naves grandes para exploatr el refinado de materiales.
+&lt;p&gt;Se pueden aprovechar las naves grandes para explotar el refinado de materiales.
 Se compran ores y se venden los minerales que se obtienen del mismo. El refinado
 se hace en la estación con mejor standing.&lt;/p&gt;
 &lt;p&gt;En el &lt;strong&gt;inter-hub hauling&lt;/strong&gt; se mueven items aprovechando las diferencias de
