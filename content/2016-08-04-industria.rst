@@ -6,57 +6,71 @@
 :excerpt: Actividades rentables
 :disqus_identifier: Actividades rentables
 
+Estas son anotaciones que aún no puse en práctica, así que no certifico que toda
+la información sea correcta. Gran parte es un resumen de `Newbie guide for
+riches in EVE`_ y de algún otro sitio que ya ni recuerdo.
+
+.. _Newbie guide for riches in EVE:
+   http://greedygoblin.blogspot.co.id/p/newbie-guide-for-riches-in-eve.html
+
 Skills generales
 ----------------
 
 Estas son skills que sirven para distintas actividades relacionadas con
 industria y comercio.
 
-- Cybernetics: para poder usar implantes mejores.
+- *Cybernetics*: para poder usar implantes mejores, y con ellos acelerar el tiempo
+  de entrenamiento de skills.
 
 - Science
 
-  + Laboratory Operation y Advanced Laboratory Operation: para operar trabajos
-    en simultaneo. Tengo que verificar cuántos y qué tipo de trabajos.
-  + Scientific networking 1.
-  + Science 5.
+  + *Laboratory Operation* y *Advanced Laboratory Operation*: por cada nivel de
+    cada una, se incrementa en 1 la cantidad de trabajos que se pueden realizar
+    en simultaneo.
+  + *Scientific networking*: para realizar operaciones de industria remotamente
+    (sin estar en la misma estación donde se encuentran las blueprints).
+  + *Science*: es un pre-requisito para otras skills. Por cada nivel otorga 5% de
+    aumento de velocidad a la copia de blueprints.
 
 - Production
 
-  + Production Efficiency: 5.
-  + Mass Production y Advanced Mass Production: para usar múltiples estaciones
-    en simultaneo.
-  + Supply Chain Management: para manejar la producción a más distancia.
-  + Industry: para tardar menos tiempo en cada trabajo.
+  + *Mass Production* y *Advanced Mass Production*: para usar múltiples
+    estaciones en simultaneo (cada nivel: +1).
+  + *Supply Chain Management*: para manejar la producción a distancia.
+  + *Industry*: para tardar menos tiempo en cada trabajo.
 
 - Misiones
 
-  - Social: para subir la reputación más rápido.
-  - Negotiations 2 o 3
-  - Connections 3
-  - Faction Destroyers 3 / Faction Cruisers
+  - *Social*: para subir la reputación más rápido. Es un 5% de bonus por nivel
+    para el incremento de reputación con NPCs, corporaciones y facciones.
+  - *Negotiations*: aumento del 5% sobre la recompensa de los agentes de misiones.
+  - *Connections*: modificador del 4% a la reputación efectiva de corporaciones y
+    facciones NPC amistosas. No se acumula con Diplomacy ni con Criminal
+    Connections.
 
 - Hauling
 
-  - Ratial industrial: 5 (para usar naves industriales T2)
-  - Anchoring 1: para usar contenedores que incrementen el tamaño de la nave
-    (¿?).
+  - *(Gallente/Amarr/Caldari/Minmatar) Industrial*: se necesita en 5 para usar
+    naves industriales T2.
 
 - Refinado
 
-  - Refining 5
-  - refinery efficiency 4
-  - Velspar/scordite/whatever processing 2
+  - *Reprocessing*: otorga un 3% más (por nivel) al procesar ores y hielo.
+  - *Reprocessing efficiency*: otro 2% de bonus al reprocesado de ores y hielo.
+  - *Scrapmetal reprocessing*: al reprocesar loot se obtiene un 2% más de
+    minerales (por nivel).
+  - *Arkonor / Bistot / Crokite / ... Processing*: un 2% de material extra al
+    procesar la veta de cada mineral.
 
 - Trading
 
-  - Accounting 5
-  - Broker relations 5
-  - Contracting 3
-  - Margin trading 4
-  - Trade 4
-  - Retail 5
-  - Wholesale 4
+  - *Accounting*
+  - *Broker relations*
+  - *Contracting*
+  - *Margin trading*
+  - *Trade*
+  - *Retail*
+  - *Wholesale*
 
 
 Misiones
@@ -65,14 +79,23 @@ Misiones
 Hacer las misiones de los *career agents* para la facción que posee la estación
 con la cual se comerciará (Jita = Caldari, y quizás para la facción aliada a los
 Caldari: Amarr). Para algunas misiones se necesitan skills, como Astrometrics
-(para la cadena de exploración). Usar implantes tan pronto sea posible (beta:
-+2, basic: +3, ¿?: +4). Ver cuál nave conviene para las misiones (quizás
-destructores para las de nivel 1). En las misiones de exploración sacar 6
-documentos de cada container. Lootear uno, esperar a que haga *respawn*, lootear
-de nuevo y repetir.
+(para la cadena de exploración).
 
-Las *small railguns* cargadas con *iron* destruye las fragatas desde mucha
-distancia reduciendo el tiempo requerido por las misiones.
+Usar implantes tan pronto sea posible. Esto está limitado por el entrenamiento
+de cybernetics y por la disponibilidad de ISK. Los implantes son: limited: +1,
+beta:+2, basic: +3, standard: +4, improved: +5.
+
+Cada nivel de misiones tiene un límite en cuanto a la nave con la que se puede
+completar. Conviene usar la nave más grande que permita la misión. En general la
+recomendación es la siguiente:
+
+- Nivel 1: fragata o destructor
+- Nivel 2: crucero
+- Nivel 3: battlecruiser
+- Nivel 4: battleship
+
+En las misiones de exploración sacar 6 documentos de cada container. Lootear
+uno, esperar a que haga *respawn*, lootear de nuevo y repetir.
 
 
 Reputación
@@ -142,7 +165,7 @@ Una alternativa son los items caros y pequeños (*shinies*): implantes, skills,
 interceptors, covops). Sólo usar covops para ir a buscar estos items a sistemas
 en lowsec.
 
-Se pueden aprovechar las naves grandes para exploatr el refinado de materiales.
+Se pueden aprovechar las naves grandes para explotar el refinado de materiales.
 Se compran ores y se venden los minerales que se obtienen del mismo. El refinado
 se hace en la estación con mejor standing.
 
