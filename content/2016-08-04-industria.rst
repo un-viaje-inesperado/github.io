@@ -6,52 +6,66 @@
 :excerpt: Actividades rentables
 :disqus_identifier: Actividades rentables
 
-Estas son anotaciones que aún no puse en práctica, así que no certifico que toda
-la información sea correcta. Gran parte es un resumen de `Newbie guide for
-riches in EVE`_ y de algún otro sitio que ya ni recuerdo.
+Con el término de "industria" se denomina a un amplio abanico de actividades de
+manufactura y comercio que sirven como fuente de ingresos y permiten proveer de
+elementos útiles a New Eden.
+
+Más que una guía son referencias a tener en cuenta para emprender estas
+actividades. Si necesitan una guía detallada sobre cómo manufacturar módulos T2,
+o cómo mejorar sus blueprints, van a tener que buscar un tutorial más
+específico.
+
+Lo que sigue son anotaciones que no experimenté en profundidad, así que no lo
+tomen como una verdad absoluta. Gran parte es un resumen de `Newbie guide for
+riches in EVE`_ y de algún otro sitio que ya ni recuerdo, más unos pocos aportes
+personales.
 
 .. _Newbie guide for riches in EVE:
    http://greedygoblin.blogspot.co.id/p/newbie-guide-for-riches-in-eve.html
 
-Skills generales
-----------------
+Producción
+----------
 
-Estas son skills que sirven para distintas actividades relacionadas con
-industria y comercio.
+Consiste en la fabricación de naves, módulos, municiones y demás objetos. Los
+más fáciles de industrializar son los T1 que casi no requieren skills, pero no
+suele ser muy redituables producirlos (porque hay muchos jugadores compitiendo
+en su fabricación y venta). La producción tiene muchas aristas porque entra en
+juego la obtención de las materias primas, la disponibilidad de blueprints, la
+eficiencia material y temporal de estas blueprints (que se pueden mejorar), etc.
+En estas tareas, cuando se alcanzan niveles de producción altos, entran en juego
+dificultades de logística que determinan la necesidad de ubicar qué partes de
+las tareas de producción nos interesan, de modo que indefectiblemente tendremos
+que interactuar con otros jugadores ya sea a través del mercado, de contratos,
+intercambios directos, etc.
+
+A continuación menciono algunas skills que sirven para distintas actividades
+relacionadas con industria y comercio.
 
 - *Cybernetics*: para poder usar implantes mejores, y con ellos acelerar el tiempo
-  de entrenamiento de skills.
+  de entrenamiento de todo tipo de skills. ¡Utiles no sólo para industria!
 
-- Science
+- Ciencia
 
-  + *Laboratory Operation* y *Advanced Laboratory Operation*: por cada nivel de
-    cada una, se incrementa en 1 la cantidad de trabajos que se pueden realizar
-    en simultaneo.
+  + *Laboratory Operation* y *Advanced Laboratory Operation*: por cada nivel
+    incrementan en 1 la cantidad de trabajos de "research" (de blueprints
+    originales) que se pueden realizar en simultaneo. Por ejemplo si quieren
+    tener la posibilidad de realizar copias de 4 blueprints en simultaneo van a
+    tener que subir esta skill al 3.
   + *Scientific networking*: para realizar operaciones de industria remotamente
     (sin estar en la misma estación donde se encuentran las blueprints).
   + *Science*: es un pre-requisito para otras skills. Por cada nivel otorga 5% de
     aumento de velocidad a la copia de blueprints.
 
-- Production
+- Producción
 
-  + *Mass Production* y *Advanced Mass Production*: para usar múltiples
-    estaciones en simultaneo (cada nivel: +1).
-  + *Supply Chain Management*: para manejar la producción a distancia.
+  + *Mass Production* y *Advanced Mass Production*: semejante a *Laboratory
+    Operation* pero para trabajos de manufactura. Por cada nivel permite
+    incrementar en 1 la cantidad de naves o módulos que se pueden construir en
+    simultaneo. 
+  + *Supply Chain Management*: para manejar la producción a distancia, sin estar
+    en la misma estación donde están las blueprints.
   + *Industry*: para tardar menos tiempo en cada trabajo.
 
-- Misiones
-
-  - *Social*: para subir la reputación más rápido. Es un 5% de bonus por nivel
-    para el incremento de reputación con NPCs, corporaciones y facciones.
-  - *Negotiations*: aumento del 5% sobre la recompensa de los agentes de misiones.
-  - *Connections*: modificador del 4% a la reputación efectiva de corporaciones y
-    facciones NPC amistosas. No se acumula con Diplomacy ni con Criminal
-    Connections.
-
-- Hauling
-
-  - *(Gallente/Amarr/Caldari/Minmatar) Industrial*: se necesita en 5 para usar
-    naves industriales T2.
 
 - Refinado
 
@@ -61,16 +75,6 @@ industria y comercio.
     minerales (por nivel).
   - *Arkonor / Bistot / Crokite / ... Processing*: un 2% de material extra al
     procesar la veta de cada mineral.
-
-- Trading
-
-  - *Accounting*
-  - *Broker relations*
-  - *Contracting*
-  - *Margin trading*
-  - *Trade*
-  - *Retail*
-  - *Wholesale*
 
 
 Misiones
@@ -97,18 +101,31 @@ recomendación es la siguiente:
 En las misiones de exploración sacar 6 documentos de cada container. Lootear
 uno, esperar a que haga *respawn*, lootear de nuevo y repetir.
 
+Skills
 
-Reputación
-----------
+- *Social*: para subir la reputación más rápido. Es un 5% de bonus por nivel
+  para el incremento de reputación con NPCs, corporaciones y facciones.
+- *Negotiations*: aumento del 5% sobre la recompensa de los agentes de misiones.
+- *Connections*: modificador del 4% a la reputación efectiva de corporaciones y
+  facciones NPC amistosas. No se acumula con Diplomacy ni con Criminal
+  Connections.
+
+Comercio
+--------
 
 Para vender productos se pagan *broker fees* y *sales tax*. Para colocar una
-orden de compra se pagan *broker fees*. El *sales tax* es 1.5% y decrece con
-Accounting. El *broker fee* es 1% y decrece con Broker relations.
+orden de compra se pagan *broker fees*. El *sales tax* es 2% y decrece con
+*Accounting*. El *broker fee* es 3% y decrece con *Broker relations*.
 
-En el ejemplo de GreedyGoblin dice que si comprás un item por 90M y lo vendés
-por 100M pagás 675K+750K+750K = 2.175M, que es casi 22% de tu ganancia. A mi me
-da otra cosa porque entre broker fees y sales tax tengo 900K+1M+1.5M = 3.4M, que
-es casi un 35% de la ganancia (100M - 90M).
+Una alternativa muy importante para bajar estos impuestos es utilizar las
+citadels. Alrededor de Jita hay muchas citadels que cobran un porcentaje de
+*broker fees* mucho menor a las estaciones para colocar órdenes de compra, en
+vez de un 3% pueden cobrar 0,1% lo cual es una diferencia abismal. 
+
+Si comprás un item por 90M (el 3% es 2.7M) y lo vendés por 100M (pagás
+2.7M+3M+2M = 7.7M) no ganás 10M sino sólo 2.3M. Por eso es importante bajar
+estos porcentajes subiendo las skills correspondientes o aprovechando las
+citadels que ofrezcan porcentajes más ventajosos.
 
 Los brokers fees se pueden reducir drásticamente mejorando la reputación con la
 facción de la estación donde se compra/vende. Para subirla hay que hacer las
@@ -135,6 +152,16 @@ misiones de combate se puede subir mucho con las misiones *Cosmos*. Con
 suficiente dinero se pueden comprar *pirate tags* para completar las misiones
 *datacenter*. También se puede hacer el arco épico de Sisters of EVE.
 
+Skills
+
+- *Accounting*
+- *Broker relations*
+- *Contracting*
+- *Margin trading*
+- *Trade*
+- *Retail*
+- *Wholesale*
+
 
 Hauling 
 -------
@@ -158,7 +185,8 @@ hacer viajes entre ellas. Sin embargo tales transportes están limitados por el
 espacio de la nave y su débil capacidad de tanquear. "If you carry more valuable
 cargo than N Tornado battlecruisers (71M), you can expect N/2 Tornados to attack
 you with 12000EHP oneshot. Get better tank, get cheaper cargo or forget the
-industrial".
+industrial". En algún sitio, alguien afirmaba: "I try not to have more than
+10mil in a frigate, below 80mil in an industrial and below 1bil in a freighter".
 
 Una alternativa son los items caros y pequeños (*shinies*): implantes, skills,
 *pirate tags*, módulos y otras cosas que entren una fragata (assault frigates,
@@ -174,6 +202,11 @@ precios entre Jita, Dodixie, Amarr, Hek y Rens. Se necesita más de un trader al
 para esto, uno por cada hub que se quiera cubrir, por lo cual es más dificil
 para empezar. Esta es la actividad más rentable, de hasta 1B/hora. Sin embargo
 requiere mucha inversión y es la más riesgosa.
+
+Skills
+
+- *(Gallente/Amarr/Caldari/Minmatar) Industrial*: se necesita en 5 para usar
+  naves industriales T2.
 
 
 Comercio dentro de una estación

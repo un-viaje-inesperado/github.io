@@ -13,12 +13,12 @@ encontré por la web y otras que descubrí por mi mismo.
 La nave recomendable para empezar a ratear en soledad es la `Vexor Navy Issue`_
 (**VNI**), que vale unos 65m de isk (más unos 30 o 40m para sus módulos).
 También se puede ratear con la `Vexor`_ común, pero un piloto novato no tiene
-suficientes skills para que la experiencia sea agradable y redituable. La VNI no
-sólo tiene un low slot más, sino que la diferencia más importante es su ancho de
-banda de 125 Mbit/sec que permite sacar 5 drones pesados simultaneamente (cada
-uno ocupa 25 Mbit/sec), mientras que la Vexor sólo cuenta con 75 Mbit/sec que
-permiten sólo 3 berserkers en el espacio en simultaneo (o un grupo con 2
-pesados, 2 medianos y 1 liviano).
+suficientes skills para que la experiencia sea agradable y redituable en las
+anomalías de null-sec. La VNI no sólo tiene un low slot más, sino que la
+diferencia más importante es su ancho de banda de 125 Mbit/sec que permite sacar
+5 drones pesados simultaneamente (cada uno ocupa 25 Mbit/sec), mientras que la
+Vexor sólo cuenta con 75 Mbit/sec que permiten sólo 3 berserkers en el espacio
+en simultaneo (o un grupo con 2 pesados, 2 medianos y 1 liviano).
 
 Secuencia de ataque
 -------------------
@@ -32,21 +32,23 @@ todas sus oleadas) la secuencia es la siguiente:
 2. orbitar a unos 15 km de algún elemento que esté cercano al centro de la
    anomalía.
 3. encender el afterburner (AB), no olvidarlo porque es vital para tanquear a
-   velocidad (es decir esquivando el daño).
+   velocidad (esquivar el daño).
 4. encender el escudo activo si está disponible (depende de los módulos
    instalados).
 5. sacar los berserkers (que atacarán inmediatamente después de que nuestra nave
-   tenga el *aggro*).
+   tenga el *aggro*). Esperar a que los drones ataquen solos al primer objetivo,
+   salvo que los hayamos sacado muy tarde y se queden inmóviles mientras nuestra
+   nos atacan la nave. En este caso iniciar el primer ataque manualmente hasta
+   completar el punto 6.
 6. targetear las naves pequeñas y atacarlas manualmente.
 7. dejar a los drones atacar a las naves grandes en el orden que les plazca.
 
 En algún momento, mis drones sufrían el ataque de las ratas y debía hacerlos
 retornar porque pierden escudo y armadura muy rápido. Para evitar este problema
-nuestra nave tiene que empezar a recibir daño (tener el *aggro*) antes de que
-ataquen los drones, por eso demoro el momento de sacar los drones hasta el punto
-5 y no los envío manualmente a atacar (salvo si después de empezar a recibir
-daño en la nave éstos se mantienen inertes). De esta manera los drones hacen su
-trabajo tranquilos, sin ser atacados ni una sola vez.
+nuestra nave tiene que empezar a recibir daño (tener el *aggro*) antes de enviar
+los drones al ataque. Pero para que ataquen por sí solos, ya deben estar en el
+espacio (y en modo agresivo) cuando empezamos a recibir daño. De esta manera los
+drones hacen su trabajo tranquilos, sin ser atacados ni una sola vez.
 
 Al sacar los berserkers lo que he visto es que atacan inicialmente la nave más
 pequeña que encuentran, sea una fragata, un cruiser, un battlecruiser, lo cual
@@ -75,7 +77,8 @@ warp scramblers y target painters.
 Fiteo
 -----
 
-Una configuración para tener como objetivo para ratear es::
+Una configuración para tener como objetivo inicial para ratear con suficiencia
+es::
 
     [Vexor Navy Issue, T2]
 
@@ -179,11 +182,12 @@ Secuencia de huida
 Cuando tengo que huir porque apareció un neutral en el sistema, la secuencia que
 utilizo es la siguiente:
 
-- terminar de matar las fragatas, puesto que son las únicas que impiden warpear,
-  lo cual es una condena a muerte.
+- terminar de matar las fragatas, puesto que son las únicas que pueden impedir
+  el warpeo, lo cual es una condena a muerte.
 - llamar los drones.
-- apagar el afterburner (este paso es el que me resulta más conflictivo y está
-  sometido a cambios futuros)
+- apagar el afterburner (de lo contrario pueden tardar más en llegar los drones
+  porque nos podríamos estar alejando de ellos a muy alta velocidad, y además se
+  dificulta el warpeo).
 - alinear a la POS (mejor) o a la estación/citadel (peor, porque pueden haber
   puesto una burbuja muy rápidamente).
 - esperar los drones, escanear con el escaner direccional (dscan) buscando naves
@@ -195,13 +199,9 @@ utilizo es la siguiente:
 
 Justo cuando aparecen los neutrales uno se da cuenta de la importancia de las
 skills y los módulos de velocidad de los drones (Drone Navigation,
-Omnidirectional Tracking, Drone Navigation Computer). Por este motivo, cuanto
-menor sea el radio de la órbita, menos tardarán los drones en volver, así
-disminuye el tiempo de viaje desde y hacia la nave.
-
-Respecto del AB (el tercer paso de la lista), quizás debería apagarlo sólo si la
-nave se encuentra alejándose de los drones, pero a la vez me da la impresión de
-que la nave tarda menos en iniciar el warp si se parte de apagar el afterburner.
+Omnidirectional Tracking, Drone Navigation Computer). También es conveniente
+haber usado una órbita pequeña (15km) alrededor de una zona central de la
+anomalía, así los drones tendrán que recorrer menos distancia para volver.
 
 Isk/hora
 --------
@@ -214,8 +214,8 @@ aproximadamente para completarla). Creo que no llegaba a los 380 dps.
 Actualmente, que aún no maximicé las skills de drones todo lo posible y hago
 unos 470 dps, estoy sacando unos 10-13m por tick. Con skills al máximo la VNI
 llega a 648 dps y unos 18-20m por tick. Aunque estos números vienen del
-simulador `pyfa`_ y no los verifiqué demasiado, sirven como noción para saber
-que tan lejos están de la cumbre del poder de destrucción.
+simulador `pyfa`_ y no los verifiqué demasiado, sirven como referencia para
+estimar qué tan lejos están de la cumbre del poder de destrucción.
 
 Tengan en cuenta que el aumento de dps no es lineal, es decir que no necesitan
 duplicar el dps para hacer la anomalía en la mitad del tiempo. Esto es así
