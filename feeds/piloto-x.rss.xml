@@ -1,43 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/piloto-x.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Aug 2016 10:00:00 -0300</lastBuildDate><item><title>Actividades rentables</title><link>http://un-viaje-inesperado.github.io/actividades-rentables.html</link><description>&lt;p&gt;Estas son anotaciones que aún no puse en práctica, así que no certifico que toda
-la información sea correcta. Gran parte es un resumen de &lt;a class="reference external" href="http://greedygoblin.blogspot.co.id/p/newbie-guide-for-riches-in-eve.html"&gt;Newbie guide for
-riches in EVE&lt;/a&gt; y de algún otro sitio que ya ni recuerdo.&lt;/p&gt;
-&lt;div class="section" id="skills-generales"&gt;
-&lt;h2&gt;Skills generales&lt;/h2&gt;
-&lt;p&gt;Estas son skills que sirven para distintas actividades relacionadas con
-industria y comercio.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Un Viaje Inesperado</title><link>http://un-viaje-inesperado.github.io/</link><description>Historias en las inmensidades de New Eden</description><atom:link href="http://un-viaje-inesperado.github.io/feeds/piloto-x.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 22 Aug 2016 10:00:00 -0300</lastBuildDate><item><title>Antes de emigrar</title><link>http://un-viaje-inesperado.github.io/antes-de-emigrar.html</link><description>&lt;p&gt;Antes de dar el salto hacia los lejanos paisajes sin Concord Police, un piloto
+precavido debería considerar:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Armar un plan de skills de al menos 3 meses (mucho mejor si es de 6 o 12). De
+acuerdo al plan comprar todos los skillbooks que van a necesitar, porque no
+hay gran disponibilidad de éstos en Nullsec, y los que existen suelen estar
+muy caros.&lt;/li&gt;
+&lt;li&gt;Revisar que no hayan quedado trabajos pendientes en industria: nada de naves a
+medio hacer o blueprints en mejoramiento de eficiencias, ya que hay un límite
+en la cantidad de trabajos simultaneos y no se pueden gestionar remotamente.&lt;/li&gt;
+&lt;li&gt;Dejar un clon en Imperio, en caso de que sea necesario volver para realizar
+alguna actividad (comprar diferentes skillbooks si hubo cambio de planes,
+vivir unos días en Imperio por si está campeado el sistema y no se puede hacer
+nada en Null, etc).&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piloto X</dc:creator><pubDate>Mon, 22 Aug 2016 10:00:00 -0300</pubDate><guid>tag:un-viaje-inesperado.github.io,2016-08-22:antes-de-emigrar.html</guid><category>consejos</category></item><item><title>Actividades rentables</title><link>http://un-viaje-inesperado.github.io/actividades-rentables.html</link><description>&lt;p&gt;Con el término de &amp;quot;industria&amp;quot; se denomina a un amplio abanico de actividades de
+manufactura y comercio que sirven como fuente de ingresos y permiten proveer de
+elementos útiles a New Eden.&lt;/p&gt;
+&lt;p&gt;Más que una guía son referencias a tener en cuenta para emprender estas
+actividades. Si necesitan una guía detallada sobre cómo manufacturar módulos T2,
+o cómo mejorar sus blueprints, van a tener que buscar un tutorial más
+específico.&lt;/p&gt;
+&lt;p&gt;Lo que sigue son anotaciones que no experimenté en profundidad, así que no lo
+tomen como una verdad absoluta. Gran parte es un resumen de &lt;a class="reference external" href="http://greedygoblin.blogspot.co.id/p/newbie-guide-for-riches-in-eve.html"&gt;Newbie guide for
+riches in EVE&lt;/a&gt; y de algún otro sitio que ya ni recuerdo, más unos pocos aportes
+personales.&lt;/p&gt;
+&lt;div class="section" id="produccion"&gt;
+&lt;h2&gt;Producción&lt;/h2&gt;
+&lt;p&gt;Consiste en la fabricación de naves, módulos, municiones y demás objetos. Los
+más fáciles de industrializar son los T1 que casi no requieren skills, pero no
+suele ser muy redituables producirlos (porque hay muchos jugadores compitiendo
+en su fabricación y venta). La producción tiene muchas aristas porque entra en
+juego la obtención de las materias primas, la disponibilidad de blueprints, la
+eficiencia material y temporal de estas blueprints (que se pueden mejorar), etc.
+En estas tareas, cuando se alcanzan niveles de producción altos, entran en juego
+dificultades de logística que determinan la necesidad de ubicar qué partes de
+las tareas de producción nos interesan, de modo que indefectiblemente tendremos
+que interactuar con otros jugadores ya sea a través del mercado, de contratos,
+intercambios directos, etc.&lt;/p&gt;
+&lt;p&gt;A continuación menciono algunas skills que sirven para distintas actividades
+relacionadas con industria y comercio.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;em&gt;Cybernetics&lt;/em&gt;: para poder usar implantes mejores, y con ellos acelerar el tiempo
-de entrenamiento de skills.&lt;/li&gt;
-&lt;li&gt;Science&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Laboratory Operation&lt;/em&gt; y &lt;em&gt;Advanced Laboratory Operation&lt;/em&gt;: por cada nivel de
-cada una, se incrementa en 1 la cantidad de trabajos que se pueden realizar
-en simultaneo.&lt;/li&gt;
+de entrenamiento de todo tipo de skills. ¡Utiles no sólo para industria!&lt;/li&gt;
+&lt;li&gt;Ciencia&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Laboratory Operation&lt;/em&gt; y &lt;em&gt;Advanced Laboratory Operation&lt;/em&gt;: por cada nivel
+incrementan en 1 la cantidad de trabajos de &amp;quot;research&amp;quot; (de blueprints
+originales) que se pueden realizar en simultaneo. Por ejemplo si quieren
+tener la posibilidad de realizar copias de 4 blueprints en simultaneo van a
+tener que subir esta skill al 3.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Scientific networking&lt;/em&gt;: para realizar operaciones de industria remotamente
 (sin estar en la misma estación donde se encuentran las blueprints).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Science&lt;/em&gt;: es un pre-requisito para otras skills. Por cada nivel otorga 5% de
 aumento de velocidad a la copia de blueprints.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Production&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Mass Production&lt;/em&gt; y &lt;em&gt;Advanced Mass Production&lt;/em&gt;: para usar múltiples
-estaciones en simultaneo (cada nivel: +1).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Supply Chain Management&lt;/em&gt;: para manejar la producción a distancia.&lt;/li&gt;
+&lt;li&gt;Producción&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mass Production&lt;/em&gt; y &lt;em&gt;Advanced Mass Production&lt;/em&gt;: semejante a &lt;em&gt;Laboratory
+Operation&lt;/em&gt; pero para trabajos de manufactura. Por cada nivel permite
+incrementar en 1 la cantidad de naves o módulos que se pueden construir en
+simultaneo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Supply Chain Management&lt;/em&gt;: para manejar la producción a distancia, sin estar
+en la misma estación donde están las blueprints.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Industry&lt;/em&gt;: para tardar menos tiempo en cada trabajo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Misiones&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Social&lt;/em&gt;: para subir la reputación más rápido. Es un 5% de bonus por nivel
-para el incremento de reputación con NPCs, corporaciones y facciones.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Negotiations&lt;/em&gt;: aumento del 5% sobre la recompensa de los agentes de misiones.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Connections&lt;/em&gt;: modificador del 4% a la reputación efectiva de corporaciones y
-facciones NPC amistosas. No se acumula con Diplomacy ni con Criminal
-Connections.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Hauling&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;(Gallente/Amarr/Caldari/Minmatar) Industrial&lt;/em&gt;: se necesita en 5 para usar
-naves industriales T2.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Refinado&lt;ul&gt;
@@ -47,16 +72,6 @@ naves industriales T2.&lt;/li&gt;
 minerales (por nivel).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Arkonor / Bistot / Crokite / ... Processing&lt;/em&gt;: un 2% de material extra al
 procesar la veta de cada mineral.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Trading&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Accounting&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Broker relations&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Contracting&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Margin trading&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Trade&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Retail&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Wholesale&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -81,16 +96,24 @@ recomendación es la siguiente:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;En las misiones de exploración sacar 6 documentos de cada container. Lootear
 uno, esperar a que haga &lt;em&gt;respawn&lt;/em&gt;, lootear de nuevo y repetir.&lt;/p&gt;
+&lt;p&gt;Skills&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;Social&lt;/em&gt;: para subir la reputación más rápido. Es un 5% de bonus por nivel
+para el incremento de reputación con NPCs, corporaciones y facciones.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Negotiations&lt;/em&gt;: aumento del 5% sobre la recompensa de los agentes de misiones.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Connections&lt;/em&gt;: modificador del 4% a la reputación efectiva de corporaciones y
+facciones NPC amistosas. No se acumula con Diplomacy ni con Criminal
+Connections.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
-&lt;div class="section" id="reputacion"&gt;
-&lt;h2&gt;Reputación&lt;/h2&gt;
+&lt;div class="section" id="comercio"&gt;
+&lt;h2&gt;Comercio&lt;/h2&gt;
 &lt;p&gt;Para vender productos se pagan &lt;em&gt;broker fees&lt;/em&gt; y &lt;em&gt;sales tax&lt;/em&gt;. Para colocar una
-orden de compra se pagan &lt;em&gt;broker fees&lt;/em&gt;. El &lt;em&gt;sales tax&lt;/em&gt; es 1.5% y decrece con
-Accounting. El &lt;em&gt;broker fee&lt;/em&gt; es 1% y decrece con Broker relations.&lt;/p&gt;
-&lt;p&gt;En el ejemplo de GreedyGoblin dice que si comprás un item por 90M y lo vendés
-por 100M pagás 675K+750K+750K = 2.175M, que es casi 22% de tu ganancia. A mi me
-da otra cosa porque entre broker fees y sales tax tengo 900K+1M+1.5M = 3.4M, que
-es casi un 35% de la ganancia (100M - 90M).&lt;/p&gt;
+orden de compra se pagan &lt;em&gt;broker fees&lt;/em&gt;. El &lt;em&gt;sales tax&lt;/em&gt; es 2% y decrece con
+&lt;em&gt;Accounting&lt;/em&gt;. El &lt;em&gt;broker fee&lt;/em&gt; es 3% y decrece con &lt;em&gt;Broker relations&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Si comprás un item por 90M (el 3% es 2.7M) y lo vendés por 100M (pagás
+2.7M+3M+2M = 7.7M) no ganás 10M sino sólo 2.3M. Por eso es importante bajar
+estos porcentajes subiendo las skills correspondientes.&lt;/p&gt;
 &lt;p&gt;Los brokers fees se pueden reducir drásticamente mejorando la reputación con la
 facción de la estación donde se compra/vende. Para subirla hay que hacer las
 misiones &lt;em&gt;storyline&lt;/em&gt; que se obtienen tras hacer 16 misiones del mismo tipo, del
@@ -111,6 +134,16 @@ Connections). En este punto la reputación con la facción será de alrededor de
 misiones de combate se puede subir mucho con las misiones &lt;em&gt;Cosmos&lt;/em&gt;. Con
 suficiente dinero se pueden comprar &lt;em&gt;pirate tags&lt;/em&gt; para completar las misiones
 &lt;em&gt;datacenter&lt;/em&gt;. También se puede hacer el arco épico de Sisters of EVE.&lt;/p&gt;
+&lt;p&gt;Skills&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;Accounting&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Broker relations&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Contracting&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Margin trading&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Trade&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Retail&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Wholesale&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="hauling"&gt;
 &lt;h2&gt;Hauling&lt;/h2&gt;
@@ -131,7 +164,8 @@ hacer viajes entre ellas. Sin embargo tales transportes están limitados por el
 espacio de la nave y su débil capacidad de tanquear. &amp;quot;If you carry more valuable
 cargo than N Tornado battlecruisers (71M), you can expect N/2 Tornados to attack
 you with 12000EHP oneshot. Get better tank, get cheaper cargo or forget the
-industrial&amp;quot;.&lt;/p&gt;
+industrial&amp;quot;. En algún sitio, alguien afirmaba: &amp;quot;I try not to have more than
+10mil in a frigate, below 80mil in an industrial and below 1bil in a freighter&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Una alternativa son los items caros y pequeños (&lt;em&gt;shinies&lt;/em&gt;): implantes, skills,
 &lt;em&gt;pirate tags&lt;/em&gt;, módulos y otras cosas que entren una fragata (assault frigates,
 interceptors, covops). Sólo usar covops para ir a buscar estos items a sistemas
@@ -144,6 +178,11 @@ precios entre Jita, Dodixie, Amarr, Hek y Rens. Se necesita más de un trader al
 para esto, uno por cada hub que se quiera cubrir, por lo cual es más dificil
 para empezar. Esta es la actividad más rentable, de hasta 1B/hora. Sin embargo
 requiere mucha inversión y es la más riesgosa.&lt;/p&gt;
+&lt;p&gt;Skills&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;em&gt;(Gallente/Amarr/Caldari/Minmatar) Industrial&lt;/em&gt;: se necesita en 5 para usar
+naves industriales T2.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="comercio-dentro-de-una-estacion"&gt;
 &lt;h2&gt;Comercio dentro de una estación&lt;/h2&gt;
@@ -166,12 +205,12 @@ encontré por la web y otras que descubrí por mi mismo.&lt;/p&gt;
 &lt;p&gt;La nave recomendable para empezar a ratear en soledad es la &lt;a class="reference external" href="http://wiki.eveuniversity.org/Vexor_Navy_Issue"&gt;Vexor Navy Issue&lt;/a&gt;
 (&lt;strong&gt;VNI&lt;/strong&gt;), que vale unos 65m de isk (más unos 30 o 40m para sus módulos).
 También se puede ratear con la &lt;a class="reference external" href="http://wiki.eveuniversity.org/Vexor"&gt;Vexor&lt;/a&gt; común, pero un piloto novato no tiene
-suficientes skills para que la experiencia sea agradable y redituable. La VNI no
-sólo tiene un low slot más, sino que la diferencia más importante es su ancho de
-banda de 125 Mbit/sec que permite sacar 5 drones pesados simultaneamente (cada
-uno ocupa 25 Mbit/sec), mientras que la Vexor sólo cuenta con 75 Mbit/sec que
-permiten sólo 3 berserkers en el espacio en simultaneo (o un grupo con 2
-pesados, 2 medianos y 1 liviano).&lt;/p&gt;
+suficientes skills para que la experiencia sea agradable y redituable en las
+anomalías de null-sec. La VNI no sólo tiene un low slot más, sino que la
+diferencia más importante es su ancho de banda de 125 Mbit/sec que permite sacar
+5 drones pesados simultaneamente (cada uno ocupa 25 Mbit/sec), mientras que la
+Vexor sólo cuenta con 75 Mbit/sec que permiten sólo 3 berserkers en el espacio
+en simultaneo (o un grupo con 2 pesados, 2 medianos y 1 liviano).&lt;/p&gt;
 &lt;div class="section" id="secuencia-de-ataque"&gt;
 &lt;h2&gt;Secuencia de ataque&lt;/h2&gt;
 &lt;p&gt;Una vez elegida la anomalía (en la web encontré que las mejores en términos de
@@ -183,21 +222,23 @@ todas sus oleadas) la secuencia es la siguiente:&lt;/p&gt;
 &lt;li&gt;orbitar a unos 15 km de algún elemento que esté cercano al centro de la
 anomalía.&lt;/li&gt;
 &lt;li&gt;encender el afterburner (AB), no olvidarlo porque es vital para tanquear a
-velocidad (es decir esquivando el daño).&lt;/li&gt;
+velocidad (esquivar el daño).&lt;/li&gt;
 &lt;li&gt;encender el escudo activo si está disponible (depende de los módulos
 instalados).&lt;/li&gt;
 &lt;li&gt;sacar los berserkers (que atacarán inmediatamente después de que nuestra nave
-tenga el &lt;em&gt;aggro&lt;/em&gt;).&lt;/li&gt;
+tenga el &lt;em&gt;aggro&lt;/em&gt;). Esperar a que los drones ataquen solos al primer objetivo,
+salvo que los hayamos sacado muy tarde y se queden inmóviles mientras nuestra
+nos atacan la nave. En este caso iniciar el primer ataque manualmente hasta
+completar el punto 6.&lt;/li&gt;
 &lt;li&gt;targetear las naves pequeñas y atacarlas manualmente.&lt;/li&gt;
 &lt;li&gt;dejar a los drones atacar a las naves grandes en el orden que les plazca.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;En algún momento, mis drones sufrían el ataque de las ratas y debía hacerlos
 retornar porque pierden escudo y armadura muy rápido. Para evitar este problema
-nuestra nave tiene que empezar a recibir daño (tener el &lt;em&gt;aggro&lt;/em&gt;) antes de que
-ataquen los drones, por eso demoro el momento de sacar los drones hasta el punto
-5 y no los envío manualmente a atacar (salvo si después de empezar a recibir
-daño en la nave éstos se mantienen inertes). De esta manera los drones hacen su
-trabajo tranquilos, sin ser atacados ni una sola vez.&lt;/p&gt;
+nuestra nave tiene que empezar a recibir daño (tener el &lt;em&gt;aggro&lt;/em&gt;) antes de enviar
+los drones al ataque. Pero para que ataquen por sí solos, ya deben estar en el
+espacio (y en modo agresivo) cuando empezamos a recibir daño. De esta manera los
+drones hacen su trabajo tranquilos, sin ser atacados ni una sola vez.&lt;/p&gt;
 &lt;p&gt;Al sacar los berserkers lo que he visto es que atacan inicialmente la nave más
 pequeña que encuentran, sea una fragata, un cruiser, un battlecruiser, lo cual
 está muy bien. Pero el segundo blanco lo eligen incorrectamente y se van directo
@@ -223,7 +264,8 @@ warp scramblers y target painters.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="fiteo"&gt;
 &lt;h2&gt;Fiteo&lt;/h2&gt;
-&lt;p&gt;Una configuración para tener como objetivo para ratear es:&lt;/p&gt;
+&lt;p&gt;Una configuración para tener como objetivo inicial para ratear con suficiencia
+es:&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 [Vexor Navy Issue, T2]
 
@@ -322,11 +364,12 @@ Link&lt;/em&gt;) a expensas de un &lt;em&gt;Shield Extender&lt;/em&gt;.&lt;/p&gt
 &lt;p&gt;Cuando tengo que huir porque apareció un neutral en el sistema, la secuencia que
 utilizo es la siguiente:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;terminar de matar las fragatas, puesto que son las únicas que impiden warpear,
-lo cual es una condena a muerte.&lt;/li&gt;
+&lt;li&gt;terminar de matar las fragatas, puesto que son las únicas que pueden impedir
+el warpeo, lo cual es una condena a muerte.&lt;/li&gt;
 &lt;li&gt;llamar los drones.&lt;/li&gt;
-&lt;li&gt;apagar el afterburner (este paso es el que me resulta más conflictivo y está
-sometido a cambios futuros)&lt;/li&gt;
+&lt;li&gt;apagar el afterburner (de lo contrario pueden tardar más en llegar los drones
+porque nos podríamos estar alejando de ellos a muy alta velocidad, y además se
+dificulta el warpeo).&lt;/li&gt;
 &lt;li&gt;alinear a la POS (mejor) o a la estación/citadel (peor, porque pueden haber
 puesto una burbuja muy rápidamente).&lt;/li&gt;
 &lt;li&gt;esperar los drones, escanear con el escaner direccional (dscan) buscando naves
@@ -338,12 +381,9 @@ completa con drones incluidos. Tema pendiente: cómo setear el dscan.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Justo cuando aparecen los neutrales uno se da cuenta de la importancia de las
 skills y los módulos de velocidad de los drones (Drone Navigation,
-Omnidirectional Tracking, Drone Navigation Computer). Por este motivo, cuanto
-menor sea el radio de la órbita, menos tardarán los drones en volver, así
-disminuye el tiempo de viaje desde y hacia la nave.&lt;/p&gt;
-&lt;p&gt;Respecto del AB (el tercer paso de la lista), quizás debería apagarlo sólo si la
-nave se encuentra alejándose de los drones, pero a la vez me da la impresión de
-que la nave tarda menos en iniciar el warp si se parte de apagar el afterburner.&lt;/p&gt;
+Omnidirectional Tracking, Drone Navigation Computer). También es conveniente
+haber usado una órbita pequeña (15km) alrededor de una zona central de la
+anomalía, así los drones tendrán que recorrer menos distancia para volver.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="isk-hora"&gt;
 &lt;h2&gt;Isk/hora&lt;/h2&gt;
@@ -355,8 +395,8 @@ aproximadamente para completarla). Creo que no llegaba a los 380 dps.
 Actualmente, que aún no maximicé las skills de drones todo lo posible y hago
 unos 470 dps, estoy sacando unos 10-13m por tick. Con skills al máximo la VNI
 llega a 648 dps y unos 18-20m por tick. Aunque estos números vienen del
-simulador &lt;a class="reference external" href="https://github.com/pyfa-org/Pyfa"&gt;pyfa&lt;/a&gt; y no los verifiqué demasiado, sirven como noción para saber
-que tan lejos están de la cumbre del poder de destrucción.&lt;/p&gt;
+simulador &lt;a class="reference external" href="https://github.com/pyfa-org/Pyfa"&gt;pyfa&lt;/a&gt; y no los verifiqué demasiado, sirven como referencia para
+estimar qué tan lejos están de la cumbre del poder de destrucción.&lt;/p&gt;
 &lt;p&gt;Tengan en cuenta que el aumento de dps no es lineal, es decir que no necesitan
 duplicar el dps para hacer la anomalía en la mitad del tiempo. Esto es así
 porque una parte del dps se neutraliza por la capacidad de las ratas de
