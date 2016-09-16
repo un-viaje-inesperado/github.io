@@ -6,7 +6,7 @@
 :excerpt: Antes de emigrar
 :disqus_identifier: Antes de emigrar
 
-Antes de dar el salto hacia los lejanos paisajes sin Concord Police, un piloto
+Antes de dar el salto hacia los sistemas sin fuerzas policiales, un piloto
 precavido debería considerar:
 
 - Armar un plan de skills de al menos 3 meses (mucho mejor si es de 6 o 12). De
@@ -21,4 +21,10 @@ precavido debería considerar:
 - Dejar un clon en Imperio, en caso de que sea necesario volver para realizar
   alguna actividad (comprar diferentes skillbooks si hubo cambio de planes,
   vivir unos días en Imperio por si está campeado el sistema y no se puede hacer
-  nada en Null, etc).
+  nada en Null, etc). Van a necesitar inyectarse y entrenar Infomorph
+  Psychology. En vez de pagar 900.000 ISK en una estación pueden buscar una
+  citadel que ofrezca el servicio más barato.
+
+- No es indispensable, pero no estaría mal limpiar los hangares de cosas y
+  convertir en ISK las naves, minerales, módulos, municiones o lo que sea que
+  hayan ido juntando.
